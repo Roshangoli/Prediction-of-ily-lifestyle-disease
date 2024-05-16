@@ -1,0 +1,2002 @@
+Sex,Age,BMI,Smoking,AlcoholDrinking,Diet,Cholesterol,Stress,Race,Exercise,BreathingProblem,GenHealth,SleepTime,Asthma,Cancer,KidneyDisease,Diabetes,Stroke,HeartDisease
+Female,60,40,Yes,No,0,1,No,White,Yes,0,Very good,5,No,Yes,No,Yes,No,No
+Female,79,25,No,No,0,3,No,White,Yes,0,Very good,7,No,No,No,No,No,Yes
+Male,26,28,Yes,No,1,3,No,White,Yes,1,Fair,8,Yes,No,Yes,No,No,Yes
+Female,42,27,No,No,1,1,No,White,No,0,Good,6,No,No,No,No,No,No
+Female,66,24,No,No,1,1,Yes,White,Yes,0,Very good,8,No,No,No,No,Yes,No
+Female,35,25,Yes,No,1,2,Yes,Black,No,1,Fair,12,Yes,No,Yes,No,Yes,No
+Female,84,30,No,No,0,3,No,White,Yes,1,Fair,4,Yes,No,Yes,Yes,No,Yes
+Female,61,25,Yes,No,0,3,Yes,White,No,0,Good,9,No,No,No,No,Yes,Yes
+Female,44,30,No,No,1,1,No,White,No,1,Fair,5,Yes,No,Yes,No,No,No
+Male,81,24,No,No,0,1,Yes,White,Yes,0,Good,10,No,No,No,No,Yes,No
+Male,52,25,Yes,Yes,1,1,Yes,White,No,0,Poor,15,No,Yes,Yes,No,Yes,Yes
+Female,60,34,Yes,No,1,1,No,White,Yes,0,Very good,5,No,Yes,No,No,No,No
+Male,46,26,Yes,No,0,1,Yes,White,Yes,0,Very good,8,No,No,No,No,Yes,No
+Female,35,28,No,No,0,1,Yes,White,No,0,Good,7,No,No,No,No,Yes,No
+Female,51,33,Yes,No,0,1,Yes,White,No,0,Good,5,No,Yes,No,Yes,Yes,No
+Female,66,33,No,No,0,1,No,White,Yes,0,Very good,6,No,No,No,Yes,No,No
+Female,32,21,No,No,1,1,No,White,No,0,Very good,10,No,No,No,No,No,No
+Male,36,23,Yes,No,0,1,Yes,White,Yes,0,Good,8,No,No,No,No,Yes,No
+Female,68,23,Yes,No,0,1,Yes,Black,No,1,Fair,5,Yes,Yes,Yes,Yes,Yes,No
+Male,79,28,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,60,22,No,No,1,1,No,Black,No,0,Good,8,No,No,No,No,No,No
+Female,56,38,No,No,1,1,No,White,No,0,Very good,7,No,No,No,No,No,No
+Female,61,28,Yes,No,0,2,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,48,27,Yes,No,1,1,No,White,Yes,1,Fair,8,Yes,No,Yes,No,No,No
+Female,55,28,No,No,1,3,No,White,Yes,0,Very good,6,No,No,No,No,No,Yes
+Female,75,32,Yes,Yes,1,2,Yes,White,No,1,Poor,6,Yes,Yes,Yes,No,Yes,Yes
+Female,54,37,Yes,No,0,1,Yes,White,Yes,1,Fair,9,Yes,Yes,Yes,Yes,Yes,No
+Male,73,28,Yes,No,0,1,No,White,Yes,0,Very good,5,No,Yes,No,No,No,No
+Female,80,27,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,31,31,No,No,1,1,No,White,No,0,Good,5,No,No,No,No,No,No
+Male,37,34,Yes,No,0,3,No,Black,Yes,0,Good,8,No,Yes,No,Yes,No,Yes
+Female,35,33,No,No,1,3,Yes,White,Yes,1,Fair,8,Yes,No,Yes,No,Yes,Yes
+Male,71,23,No,No,1,1,Yes,White,No,0,Good,8,No,No,No,No,Yes,No
+Female,52,31,Yes,No,0,1,No,White,Yes,0,Very good,9,No,Yes,No,Yes,No,No
+Female,81,24,No,No,0,3,Yes,Black,No,0,Good,6,No,No,No,No,Yes,Yes
+Male,26,26,Yes,Yes,1,1,Yes,White,Yes,0,Poor,4,No,Yes,Yes,No,Yes,Yes
+Female,82,24,No,No,0,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,85,22,Yes,No,1,1,No,White,Yes,1,Fair,5,Yes,Yes,Yes,No,No,No
+Female,79,26,Yes,No,1,1,No,White,No,0,Very good,8,No,No,No,No,No,No
+Female,83,24,No,No,1,1,No,Black,Yes,1,Fair,4,Yes,No,Yes,No,No,No
+Female,35,26,Yes,No,1,1,No,White,No,0,Very good,8,No,No,No,No,No,No
+Male,31,31,No,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,51,28,No,No,1,1,Yes,White,No,0,Good,7,No,No,No,No,Yes,No
+Female,81,23,Yes,No,0,1,Yes,White,Yes,1,Fair,8,Yes,No,Yes,Yes,Yes,No
+Male,81,31,Yes,No,1,3,Yes,White,No,1,Fair,6,Yes,Yes,Yes,No,Yes,Yes
+Female,74,21,Yes,Yes,1,1,No,White,No,1,Poor,10,Yes,Yes,Yes,No,No,Yes
+Male,40,31,No,No,1,2,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,47,25,No,No,1,1,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Female,58,37,No,No,1,2,Yes,White,No,1,Fair,7,Yes,No,Yes,No,Yes,No
+Male,47,33,Yes,Yes,0,1,No,White,Yes,1,Poor,8,Yes,Yes,Yes,Yes,No,Yes
+Female,85,30,No,No,0,1,No,White,Yes,0,Good,12,No,No,No,No,No,No
+Female,34,22,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,56,27,Yes,No,0,1,No,White,Yes,1,Fair,7,Yes,No,Yes,Yes,No,No
+Female,27,31,Yes,No,0,3,No,White,Yes,0,Very good,7,No,Yes,No,Yes,No,Yes
+Male,50,34,No,No,0,1,No,White,Yes,0,Very good,9,No,No,No,Yes,No,No
+Female,20,29,No,Yes,0,1,No,White,Yes,0,Excellent,6,No,No,Yes,No,No,No
+Male,66,26,Yes,No,0,1,No,White,No,0,Very good,8,No,No,No,No,No,No
+Male,33,24,Yes,Yes,1,1,No,White,No,0,Poor,8,No,Yes,Yes,No,No,Yes
+Male,23,33,No,No,0,1,No,White,Yes,0,Good,7,No,No,No,Yes,No,No
+Male,62,20,Yes,No,0,1,No,White,No,0,Very good,8,No,No,No,No,No,No
+Female,52,27,Yes,No,1,1,No,White,Yes,0,Good,5,No,Yes,No,No,No,No
+Female,32,27,No,No,0,3,No,White,Yes,0,Excellent,8,No,No,No,No,No,Yes
+Female,62,34,No,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,26,30,Yes,No,0,1,No,White,Yes,0,Very good,8,No,Yes,No,No,No,No
+Female,75,27,No,No,1,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,22,38,No,No,1,1,No,White,Yes,1,Fair,6,Yes,No,Yes,No,No,No
+Female,26,28,Yes,No,1,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Male,35,25,No,No,1,3,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Male,85,21,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,45,23,No,No,1,1,No,Asian,No,0,Good,6,No,No,No,No,No,No
+Female,24,27,No,No,0,1,No,Black,No,0,Very good,10,No,No,No,No,No,No
+Female,56,27,Yes,No,0,1,Yes,White,No,0,Good,8,No,No,No,No,Yes,No
+Male,42,32,No,No,0,1,No,White,Yes,0,Good,10,No,No,No,Yes,No,No
+Female,45,23,No,No,0,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Male,20,27,Yes,No,0,2,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Male,84,31,Yes,No,0,1,No,American Indian/Alaskan Native,No,1,Fair,6,Yes,Yes,Yes,Yes,No,No
+Female,71,35,Yes,No,0,1,No,White,Yes,0,Very good,8,No,Yes,No,Yes,No,No
+Female,58,28,No,No,0,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,66,26,Yes,Yes,0,1,No,White,Yes,1,Poor,9,Yes,No,Yes,Yes,No,Yes
+Female,30,28,Yes,No,0,1,No,Black,Yes,0,Excellent,6,No,No,No,No,No,No
+Female,33,28,Yes,Yes,0,1,Yes,White,No,1,Poor,8,Yes,No,Yes,Yes,Yes,Yes
+Male,34,33,Yes,No,0,1,No,White,Yes,1,Fair,6,Yes,Yes,Yes,Yes,No,No
+Female,68,23,Yes,No,1,1,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Male,20,32,No,No,0,1,Yes,White,Yes,0,Good,8,No,No,No,Yes,Yes,No
+Female,64,27,Yes,No,0,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Female,55,45,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,Yes,No,No
+Female,66,22,Yes,No,1,2,No,White,No,0,Very good,7,No,No,No,No,No,No
+Female,64,39,No,No,1,2,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,55,30,Yes,No,1,1,Yes,White,Yes,0,Good,5,No,Yes,No,No,Yes,No
+Female,23,31,No,No,0,1,No,White,Yes,0,Good,8,No,No,No,Yes,No,No
+Female,70,32,No,No,0,1,Yes,White,No,1,Fair,7,Yes,No,Yes,Yes,Yes,No
+Female,60,22,No,No,0,3,No,White,Yes,0,Very good,7,No,No,No,No,No,Yes
+Female,70,29,Yes,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,31,29,No,No,0,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,79,31,Yes,No,1,2,No,Black,Yes,0,Excellent,5,No,Yes,No,No,No,No
+Female,74,25,No,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,83,32,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,Yes,No,No
+Female,83,45,Yes,No,1,1,No,White,No,0,Very good,8,No,Yes,No,No,No,No
+Female,81,28,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,23,35,Yes,No,1,2,No,White,Yes,0,Very good,8,No,Yes,No,No,No,No
+Female,52,27,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,42,19,Yes,No,1,2,Yes,White,Yes,1,Fair,8,Yes,No,Yes,No,Yes,No
+Female,46,23,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Male,59,30,No,No,1,1,No,White,No,0,Excellent,3,No,No,No,No,No,No
+Male,31,29,Yes,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,23,30,No,Yes,1,2,Yes,Other,Yes,1,Poor,3,Yes,No,Yes,No,Yes,Yes
+Female,26,22,No,No,1,2,No,White,No,1,Fair,10,Yes,No,Yes,No,No,No
+Female,43,32,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,Yes,No,No
+Female,23,28,No,No,0,2,Yes,White,Yes,0,Very good,8,No,No,No,No,Yes,No
+Male,33,33,No,No,0,2,No,White,Yes,1,Fair,8,Yes,No,Yes,Yes,No,No
+Female,66,25,No,No,1,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,32,26,No,No,1,3,No,Black,Yes,1,Fair,8,Yes,No,Yes,No,No,Yes
+Male,83,30,No,No,0,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,67,27,No,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,30,26,No,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,82,28,No,No,1,1,No,White,Yes,0,Good,9,No,No,No,No,No,No
+Female,56,24,No,No,1,1,No,Black,No,0,Excellent,10,No,No,No,No,No,No
+Female,26,27,No,No,1,1,No,White,No,0,Very good,7,No,No,No,No,No,No
+Male,61,35,Yes,No,0,1,No,White,Yes,1,Fair,8,Yes,Yes,Yes,Yes,No,No
+Female,41,23,No,Yes,0,1,No,White,No,1,Poor,6,Yes,No,Yes,Yes,No,Yes
+Female,64,40,Yes,No,0,2,No,White,Yes,0,Good,6,No,Yes,No,Yes,No,No
+Female,52,29,No,Yes,1,1,Yes,Black,No,1,Poor,8,Yes,No,Yes,No,Yes,Yes
+Female,70,30,Yes,No,1,1,No,Black,Yes,0,Very good,9,No,Yes,No,No,No,No
+Male,69,31,Yes,No,0,1,No,White,Yes,0,Very good,9,No,Yes,No,Yes,No,No
+Female,45,39,No,No,0,1,No,White,Yes,0,Good,8,No,No,No,Yes,No,No
+Female,21,24,No,Yes,0,3,Yes,Black,No,1,Poor,7,Yes,No,Yes,Yes,Yes,Yes
+Male,63,25,Yes,No,0,1,No,White,Yes,1,Fair,6,Yes,No,Yes,Yes,No,No
+Female,23,22,No,No,0,1,Yes,White,No,1,Fair,4,Yes,No,Yes,Yes,Yes,No
+Female,60,35,No,No,1,1,No,Black,Yes,0,Good,6,No,No,No,No,No,No
+Female,24,29,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,61,31,No,No,0,1,Yes,White,No,1,Fair,4,Yes,No,Yes,Yes,Yes,No
+Female,52,24,Yes,Yes,0,1,No,White,No,1,Poor,7,Yes,Yes,Yes,Yes,No,Yes
+Male,30,32,Yes,No,1,2,No,White,Yes,0,Excellent,7,No,Yes,No,No,No,No
+Male,28,19,Yes,No,0,2,No,White,Yes,1,Fair,5,Yes,Yes,Yes,Yes,No,No
+Female,68,23,No,No,1,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,69,22,Yes,No,1,1,Yes,White,Yes,0,Good,9,No,No,No,No,Yes,No
+Male,36,28,No,No,1,1,Yes,Black,No,0,Good,4,No,No,No,No,Yes,No
+Female,69,24,Yes,No,0,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,51,27,Yes,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Male,70,31,No,No,0,1,Yes,Black,No,0,Good,8,No,No,No,Yes,Yes,No
+Male,64,23,No,No,0,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,67,28,Yes,No,0,1,Yes,Other,Yes,0,Very good,5,No,Yes,No,No,Yes,No
+Male,34,26,No,Yes,1,1,Yes,Black,No,1,Fair,7,Yes,No,Yes,No,Yes,Yes
+Male,38,28,Yes,No,0,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,32,29,No,Yes,0,1,Yes,White,No,1,Poor,7,Yes,No,Yes,Yes,Yes,Yes
+Male,61,24,Yes,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,33,39,Yes,No,0,1,No,White,Yes,0,Good,7,No,Yes,No,Yes,No,No
+Female,77,34,No,No,1,2,No,Black,Yes,0,Excellent,9,No,No,No,No,No,No
+Male,53,27,Yes,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,30,22,No,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Male,65,29,No,No,0,3,No,White,Yes,0,Excellent,8,No,No,No,No,No,Yes
+Female,56,33,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,Yes,No,No
+Female,77,26,No,No,1,2,No,White,Yes,1,Fair,8,Yes,No,Yes,No,No,No
+Male,78,33,Yes,No,0,1,No,White,Yes,1,Fair,5,Yes,Yes,Yes,Yes,No,No
+Female,85,25,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,46,23,No,Yes,1,1,Yes,White,No,1,Poor,7,Yes,No,Yes,No,Yes,Yes
+Female,80,47,No,No,1,3,Yes,Black,No,1,Fair,6,Yes,No,Yes,No,Yes,Yes
+Male,40,21,No,No,1,2,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Male,59,27,No,No,0,1,No,Black,Yes,0,Very good,7,No,No,No,No,No,No
+Male,70,18,No,No,1,1,No,White,Yes,0,Excellent,10,No,No,No,No,No,No
+Female,29,34,No,No,0,2,No,Asian,Yes,0,Good,6,No,No,No,Yes,No,No
+Female,49,22,No,No,1,1,No,Black,No,0,Very good,10,No,No,No,No,No,No
+Female,38,37,No,Yes,0,1,Yes,White,No,0,Poor,10,No,No,Yes,Yes,Yes,Yes
+Female,49,40,No,No,0,2,No,Black,Yes,0,Good,7,No,No,No,Yes,No,No
+Female,21,24,No,No,1,1,Yes,White,Yes,0,Good,7,No,No,No,No,Yes,No
+Female,57,34,Yes,No,1,1,Yes,White,No,1,Fair,8,Yes,Yes,Yes,No,Yes,No
+Male,54,29,Yes,No,1,3,Yes,American Indian/Alaskan Native,No,1,Fair,8,Yes,No,Yes,No,Yes,Yes
+Female,65,37,No,No,0,1,No,White,Yes,0,Very good,8,No,No,No,Yes,No,No
+Female,59,18,Yes,No,0,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,43,30,No,No,0,1,No,Black,No,0,Very good,7,No,No,No,No,No,No
+Female,24,29,No,No,1,2,No,White,Yes,1,Fair,6,Yes,No,Yes,No,No,No
+Male,39,28,Yes,No,1,2,Yes,White,No,1,Fair,8,Yes,No,Yes,No,Yes,No
+Female,42,36,Yes,No,0,3,Yes,White,Yes,0,Good,6,No,Yes,No,Yes,Yes,Yes
+Female,80,25,No,No,0,2,No,Black,Yes,0,Very good,8,No,No,No,No,No,No
+Female,50,29,No,No,1,2,No,White,Yes,0,Very good,10,No,No,No,No,No,No
+Female,72,29,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,68,32,Yes,Yes,0,1,No,Black,No,0,Good,8,No,Yes,Yes,Yes,No,Yes
+Male,81,37,Yes,No,1,1,No,White,Yes,0,Good,6,No,Yes,No,No,No,No
+Female,74,29,No,No,0,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,53,30,Yes,No,1,1,No,White,No,0,Good,5,No,Yes,No,No,No,No
+Female,54,21,No,No,0,2,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,47,34,No,No,1,1,Yes,White,Yes,1,Fair,8,Yes,No,Yes,No,Yes,No
+Male,40,28,No,No,1,3,No,White,No,0,Excellent,8,No,No,No,No,No,Yes
+Male,71,26,Yes,No,1,2,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Male,71,37,Yes,No,1,2,Yes,White,No,1,Fair,8,Yes,Yes,Yes,No,Yes,No
+Female,48,28,Yes,No,1,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Male,45,38,No,Yes,0,1,No,White,No,0,Very good,6,No,No,Yes,Yes,No,Yes
+Female,25,29,No,No,1,1,No,White,No,1,Fair,6,Yes,No,Yes,No,No,No
+Female,63,43,Yes,No,0,1,Yes,White,No,0,Good,8,No,Yes,No,Yes,Yes,No
+Female,73,23,Yes,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,52,35,No,No,1,1,No,White,No,0,Very good,9,No,No,No,No,No,No
+Male,62,24,Yes,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,50,23,No,No,0,2,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,74,34,No,No,0,1,No,White,Yes,0,Very good,8,No,No,No,Yes,No,No
+Female,69,33,No,No,1,3,No,White,No,1,Fair,7,Yes,No,Yes,No,No,Yes
+Female,49,28,Yes,No,1,2,Yes,White,No,0,Good,10,No,No,No,No,Yes,No
+Female,24,29,No,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,81,29,No,No,1,1,Yes,White,Yes,0,Very good,8,No,No,No,No,Yes,No
+Female,66,27,No,No,0,1,No,White,Yes,0,Very good,10,No,No,No,No,No,No
+Female,58,21,No,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,51,28,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Male,28,55,Yes,Yes,1,1,No,White,Yes,0,Very good,4,No,Yes,No,No,No,Yes
+Male,72,22,No,No,1,2,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,69,49,No,No,1,1,Yes,Black,Yes,0,Good,8,No,No,No,No,Yes,No
+Female,35,28,No,No,1,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,60,27,Yes,No,1,1,No,Black,Yes,0,Very good,7,No,No,No,No,No,No
+Female,42,27,Yes,No,1,1,No,Black,Yes,1,Fair,12,Yes,No,Yes,No,No,No
+Female,53,26,Yes,Yes,1,3,No,White,Yes,0,Very good,8,No,No,No,No,No,Yes
+Female,48,23,Yes,No,1,1,No,Black,Yes,0,Very good,6,No,No,No,No,No,No
+Female,39,30,No,No,1,1,Yes,White,No,0,Very good,8,No,No,No,No,Yes,No
+Male,23,31,Yes,No,1,1,No,White,Yes,1,Fair,8,Yes,Yes,Yes,No,No,No
+Female,57,34,No,No,1,1,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Female,64,24,No,No,1,3,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,62,18,Yes,No,0,1,No,White,No,0,Good,8,No,No,No,No,No,No
+Male,74,18,Yes,No,1,1,No,White,No,0,Good,10,No,No,No,No,No,No
+Female,30,30,No,No,1,1,Yes,White,Yes,0,Good,9,No,No,No,No,Yes,No
+Male,74,42,No,Yes,0,1,Yes,White,Yes,1,Poor,5,Yes,No,Yes,Yes,Yes,Yes
+Male,81,28,Yes,No,0,1,Yes,White,Yes,1,Fair,7,Yes,No,Yes,Yes,Yes,No
+Female,21,31,Yes,No,1,1,Yes,Black,Yes,0,Good,8,No,Yes,No,No,Yes,No
+Male,67,30,Yes,No,1,1,Yes,White,No,1,Fair,5,Yes,Yes,Yes,No,Yes,No
+Female,37,22,No,No,1,2,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Female,42,17,Yes,No,0,3,No,White,No,0,Good,9,No,No,No,No,No,Yes
+Female,58,31,No,No,1,1,Yes,Black,No,1,Fair,6,Yes,No,Yes,No,Yes,No
+Male,35,31,No,No,1,1,No,Hispanic,Yes,0,Good,7,No,No,No,No,No,No
+Female,46,22,No,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,62,40,No,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Male,28,24,No,No,0,1,No,Black,No,0,Good,7,No,No,No,No,No,No
+Female,48,30,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,85,33,No,No,0,1,Yes,Black,No,0,Good,8,No,No,No,Yes,Yes,No
+Female,77,28,No,Yes,1,1,Yes,Black,No,1,Poor,7,Yes,No,Yes,No,Yes,Yes
+Male,25,24,Yes,No,0,3,No,White,Yes,0,Good,10,No,No,No,No,No,Yes
+Male,60,28,No,No,0,3,No,Black,No,0,Good,5,No,No,No,No,No,Yes
+Female,83,24,No,No,1,2,No,Black,Yes,0,Good,5,No,No,No,No,No,No
+Female,84,26,No,No,0,1,No,Black,No,0,Good,8,No,No,No,No,No,No
+Female,27,32,No,No,0,1,Yes,White,Yes,0,Good,8,No,No,No,Yes,Yes,No
+Male,61,38,No,No,0,1,Yes,Black,Yes,1,Fair,2,Yes,No,Yes,Yes,Yes,No
+Female,80,33,Yes,No,1,1,No,Black,Yes,0,Good,6,No,Yes,No,No,No,No
+Female,22,24,No,No,1,1,No,Black,Yes,0,Good,9,No,No,No,No,No,No
+Female,53,32,No,No,0,1,No,White,Yes,0,Very good,10,No,No,No,Yes,No,No
+Female,32,25,Yes,Yes,1,1,Yes,White,No,1,Poor,6,Yes,Yes,Yes,No,Yes,Yes
+Female,70,30,No,No,0,1,Yes,Black,No,1,Fair,7,Yes,No,Yes,Yes,Yes,No
+Male,34,26,No,No,0,2,No,Black,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,26,21,No,No,0,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,55,34,No,No,0,1,Yes,White,No,0,Good,6,No,No,No,Yes,Yes,No
+Male,35,21,No,No,1,3,No,White,No,0,Good,7,No,No,No,No,No,No
+Male,72,36,No,No,0,2,No,Black,Yes,0,Good,7,No,No,No,Yes,No,No
+Female,50,32,No,No,0,1,No,White,Yes,0,Good,8,No,No,No,Yes,No,No
+Male,65,24,No,Yes,1,1,Yes,White,No,1,Poor,4,Yes,No,Yes,No,Yes,Yes
+Female,45,23,Yes,No,1,1,No,Black,Yes,1,Fair,8,Yes,No,Yes,No,No,No
+Female,33,26,No,No,1,1,Yes,White,No,1,Fair,6,Yes,No,Yes,No,Yes,No
+Female,60,23,Yes,No,1,1,No,Black,No,0,Good,2,No,Yes,No,No,No,No
+Female,24,21,No,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Male,66,23,Yes,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,43,23,Yes,No,0,3,No,White,Yes,0,Good,6,No,No,No,No,No,Yes
+Female,32,23,No,Yes,1,1,Yes,White,No,1,Poor,7,Yes,No,Yes,No,Yes,Yes
+Male,34,27,Yes,No,0,3,No,White,No,0,Good,8,No,No,No,No,No,Yes
+Male,51,23,No,No,0,2,No,Black,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,80,20,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,44,29,Yes,No,1,1,Yes,Black,Yes,0,Very good,6,No,No,No,No,Yes,No
+Male,85,34,Yes,Yes,1,1,No,White,No,0,Very good,6,No,Yes,No,No,No,Yes
+Male,32,27,Yes,No,1,1,No,Black,Yes,0,Good,9,No,No,No,No,No,No
+Female,38,28,No,No,1,2,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,59,33,No,No,1,1,No,Black,No,0,Very good,15,No,No,No,No,No,No
+Male,48,24,Yes,No,0,1,Yes,Black,No,0,Good,5,No,Yes,No,No,Yes,No
+Male,41,24,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,84,36,No,No,1,3,No,White,No,0,Very good,7,No,No,No,No,No,Yes
+Female,31,28,Yes,No,0,1,No,Black,No,0,Good,6,No,No,No,No,No,No
+Female,48,16,Yes,No,0,1,Yes,Black,No,1,Fair,5,Yes,Yes,Yes,Yes,Yes,No
+Male,75,31,No,No,1,2,Yes,American Indian/Alaskan Native,Yes,0,Very good,9,No,No,No,No,Yes,No
+Female,42,27,No,No,1,1,No,White,No,0,Very good,8,No,No,No,No,No,No
+Male,20,41,Yes,No,0,1,Yes,White,No,1,Fair,3,Yes,Yes,Yes,Yes,Yes,No
+Female,85,22,No,No,0,2,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,66,21,Yes,No,1,1,No,White,No,1,Fair,5,Yes,Yes,Yes,No,No,No
+Female,31,34,No,No,0,2,No,White,No,0,Good,5,No,No,No,Yes,No,No
+Female,38,37,No,No,0,1,No,White,Yes,0,Good,5,No,No,No,Yes,No,No
+Male,30,32,No,No,0,3,No,White,Yes,0,Very good,6,No,No,No,Yes,No,Yes
+Female,79,26,No,No,0,1,No,Black,No,0,Good,5,No,No,No,No,No,No
+Female,28,39,No,No,0,1,No,White,No,0,Good,8,No,No,No,Yes,No,No
+Male,70,28,No,Yes,1,1,Yes,Black,No,1,Poor,9,Yes,No,Yes,No,Yes,Yes
+Female,83,26,Yes,Yes,1,1,Yes,White,No,1,Poor,4,Yes,Yes,Yes,No,Yes,Yes
+Female,81,20,No,No,0,3,No,White,Yes,0,Very good,8,No,No,No,No,No,Yes
+Female,34,31,Yes,Yes,1,1,Yes,Black,No,1,Poor,7,Yes,Yes,Yes,No,Yes,Yes
+Female,33,32,Yes,No,1,1,No,Black,Yes,0,Good,9,No,Yes,No,No,No,No
+Female,81,20,No,No,1,3,Yes,White,Yes,0,Good,7,No,No,No,No,Yes,No
+Male,28,36,Yes,Yes,1,2,No,White,No,0,Good,4,No,Yes,No,No,No,Yes
+Female,78,29,Yes,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Male,41,31,Yes,No,1,2,Yes,White,Yes,1,Fair,8,Yes,Yes,Yes,No,Yes,No
+Female,32,32,No,No,1,2,No,White,No,0,Good,8,No,No,No,No,No,No
+Male,83,30,Yes,No,1,1,No,White,Yes,1,Fair,2,Yes,Yes,Yes,No,No,No
+Female,78,30,No,No,0,1,Yes,White,Yes,1,Fair,7,Yes,No,Yes,Yes,Yes,No
+Female,43,22,Yes,No,1,1,No,Black,Yes,1,Fair,6,Yes,No,Yes,No,No,No
+Female,59,21,Yes,No,1,2,No,White,Yes,1,Fair,8,Yes,No,Yes,No,No,No
+Male,62,28,Yes,No,0,2,No,White,Yes,0,Excellent,9,No,No,No,No,No,No
+Female,73,29,No,Yes,1,1,Yes,White,No,1,Poor,7,Yes,No,Yes,No,Yes,Yes
+Male,47,45,Yes,No,1,1,No,White,Yes,0,Excellent,8,No,Yes,No,No,No,No
+Male,70,25,Yes,No,1,1,No,White,No,0,Good,8,No,No,No,No,No,No
+Male,81,24,Yes,No,1,1,Yes,Black,Yes,1,Fair,8,Yes,No,Yes,No,Yes,No
+Female,39,23,Yes,Yes,0,2,Yes,Other,No,0,Poor,6,No,Yes,Yes,Yes,Yes,Yes
+Male,53,26,Yes,No,0,1,No,White,No,0,Good,8,No,No,No,No,No,No
+Female,34,30,Yes,No,0,3,Yes,White,No,0,Good,8,No,Yes,No,No,Yes,Yes
+Female,63,25,No,No,0,1,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Male,69,27,Yes,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,48,25,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,30,24,No,No,1,3,No,White,No,0,Very good,8,No,No,No,No,No,No
+Female,63,21,No,No,0,1,No,White,No,0,Very good,9,No,No,No,No,No,No
+Male,82,31,Yes,No,0,1,No,White,Yes,0,Very good,7,No,Yes,No,Yes,No,No
+Male,73,30,Yes,Yes,1,1,Yes,White,No,1,Poor,7,Yes,Yes,Yes,No,Yes,Yes
+Female,34,27,No,No,0,1,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Male,79,25,Yes,No,0,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,59,30,Yes,No,1,1,No,White,Yes,0,Good,6,No,Yes,No,No,No,No
+Female,59,32,No,No,0,1,Yes,White,Yes,1,Fair,8,Yes,No,Yes,Yes,Yes,No
+Male,66,24,Yes,No,1,1,No,White,No,0,Good,10,No,No,No,No,No,No
+Female,50,32,Yes,No,0,1,No,White,No,0,Good,10,No,Yes,No,Yes,No,No
+Female,28,33,No,No,1,1,No,White,Yes,1,Fair,6,Yes,No,Yes,No,No,No
+Male,80,23,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,75,27,Yes,No,0,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Female,61,34,No,No,0,1,No,White,Yes,0,Excellent,10,No,No,No,Yes,No,No
+Female,44,26,No,Yes,1,1,Yes,White,No,1,Poor,4,Yes,No,Yes,No,Yes,Yes
+Female,41,22,Yes,No,1,1,No,American Indian/Alaskan Native,Yes,0,Very good,7,No,No,No,No,No,No
+Female,47,31,No,No,1,1,No,White,No,0,Very good,6,No,No,No,No,No,No
+Female,26,23,No,No,1,1,No,White,Yes,0,Very good,4,No,No,No,No,No,No
+Female,48,45,No,No,1,1,No,White,No,0,Very good,8,No,No,No,No,No,No
+Female,38,37,No,No,0,1,Yes,White,Yes,0,Very good,7,No,No,No,Yes,Yes,No
+Male,25,27,No,Yes,1,1,Yes,White,Yes,1,Poor,6,Yes,No,Yes,No,Yes,Yes
+Male,58,31,Yes,No,0,1,No,White,Yes,0,Very good,7,No,Yes,No,Yes,No,No
+Female,39,35,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,70,27,Yes,No,1,1,No,White,Yes,1,Fair,4,Yes,Yes,Yes,No,No,No
+Female,83,31,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,65,38,No,No,0,1,No,White,Yes,0,Good,7,No,No,No,Yes,No,No
+Male,65,23,Yes,No,1,2,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Male,60,26,Yes,No,0,1,Yes,White,No,1,Fair,9,Yes,No,Yes,Yes,Yes,No
+Male,79,25,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,51,43,No,No,1,1,Yes,Other,Yes,1,Fair,10,Yes,No,Yes,No,Yes,No
+Female,24,26,Yes,Yes,0,1,No,White,Yes,1,Poor,8,Yes,No,Yes,Yes,No,Yes
+Female,76,33,No,Yes,1,1,Yes,White,No,1,Poor,7,Yes,No,Yes,No,Yes,Yes
+Female,51,37,Yes,No,1,2,No,White,Yes,0,Good,8,No,Yes,No,No,No,No
+Female,30,32,Yes,No,1,2,Yes,White,No,0,Good,6,No,Yes,No,No,Yes,No
+Female,57,29,Yes,No,1,3,No,White,Yes,0,Very good,7,No,No,No,No,No,Yes
+Female,42,25,Yes,No,1,1,Yes,White,Yes,1,Fair,7,Yes,No,Yes,No,Yes,No
+Female,50,31,No,No,0,1,Yes,White,Yes,0,Good,7,No,No,No,Yes,Yes,No
+Female,31,31,No,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,51,24,No,Yes,1,3,No,White,Yes,0,Good,7,No,No,No,No,No,Yes
+Female,49,23,Yes,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,67,19,No,Yes,1,1,Yes,White,No,1,Poor,9,Yes,No,Yes,No,Yes,Yes
+Female,22,32,No,No,1,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,75,24,Yes,No,1,2,Yes,White,No,0,Good,6,No,No,No,No,Yes,No
+Female,22,32,Yes,Yes,0,1,Yes,White,Yes,0,Poor,8,No,Yes,Yes,Yes,Yes,Yes
+Female,55,21,No,No,0,2,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Male,48,30,No,No,0,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Male,32,30,Yes,No,1,1,Yes,White,No,0,Good,6,No,Yes,No,No,Yes,No
+Female,43,26,No,No,0,1,No,Black,Yes,0,Very good,4,No,No,No,No,No,No
+Female,32,18,Yes,No,1,3,Yes,White,Yes,0,Good,8,No,No,No,No,Yes,No
+Female,53,30,Yes,No,0,1,No,White,No,0,Good,8,No,Yes,No,No,No,No
+Male,63,38,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,Yes,No,No
+Female,74,20,Yes,No,0,3,Yes,White,No,0,Very good,6,No,No,No,No,Yes,Yes
+Female,40,42,Yes,No,0,3,No,White,Yes,0,Very good,7,No,Yes,No,Yes,No,Yes
+Female,76,23,No,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,29,26,No,No,1,1,No,Hispanic,Yes,0,Very good,9,No,No,No,No,No,No
+Male,61,29,No,Yes,1,1,No,White,No,1,Poor,8,Yes,No,Yes,No,No,Yes
+Male,56,27,Yes,No,0,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,67,26,No,No,0,1,No,Black,Yes,0,Good,6,No,No,No,No,No,No
+Male,69,47,Yes,No,0,1,No,White,Yes,0,Good,9,No,Yes,No,Yes,No,No
+Male,70,26,No,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,53,25,Yes,No,1,1,No,White,Yes,1,Fair,5,Yes,Yes,Yes,No,No,No
+Female,54,31,No,No,0,1,No,Black,Yes,0,Very good,7,No,No,No,Yes,No,No
+Female,31,32,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,68,33,No,Yes,1,1,No,Black,Yes,1,Fair,6,Yes,No,Yes,No,No,Yes
+Female,69,24,No,No,0,3,No,White,Yes,0,Good,7,No,No,No,No,No,Yes
+Male,62,31,Yes,No,1,1,No,White,No,0,Very good,6,No,Yes,No,No,No,No
+Female,41,44,No,No,1,1,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Female,52,32,No,No,1,1,No,White,Yes,1,Fair,8,Yes,No,Yes,No,No,No
+Male,37,36,No,No,1,1,No,White,Yes,1,Fair,12,Yes,No,Yes,No,No,No
+Female,83,25,Yes,No,1,3,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,34,29,No,No,0,1,Yes,Black,No,1,Fair,6,Yes,No,Yes,Yes,Yes,No
+Male,31,43,Yes,No,0,2,No,Black,Yes,0,Good,8,No,Yes,No,Yes,No,No
+Male,48,36,Yes,No,0,1,Yes,White,Yes,1,Fair,7,Yes,Yes,Yes,Yes,Yes,No
+Female,84,25,No,No,0,1,No,White,Yes,1,Fair,7,Yes,No,Yes,Yes,No,No
+Male,52,30,Yes,No,1,2,Yes,Black,No,0,Good,4,No,Yes,No,No,Yes,No
+Female,49,22,No,No,1,1,Yes,Black,Yes,0,Good,8,No,No,No,No,Yes,No
+Female,21,26,No,No,0,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,58,36,Yes,No,1,1,No,White,Yes,0,Very good,8,No,Yes,No,No,No,No
+Male,31,26,Yes,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,57,24,No,No,0,3,No,American Indian/Alaskan Native,Yes,0,Good,12,No,No,No,No,No,Yes
+Female,39,39,No,No,1,1,No,Black,Yes,0,Good,10,No,No,No,No,No,No
+Female,80,30,Yes,No,0,2,No,White,Yes,0,Very good,7,No,Yes,No,No,No,No
+Male,76,24,Yes,No,1,1,Yes,Black,Yes,0,Very good,7,No,No,No,No,Yes,No
+Female,82,26,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,58,27,No,No,1,2,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,79,34,No,No,0,1,No,Black,Yes,0,Good,6,No,No,No,Yes,No,No
+Female,23,43,Yes,No,1,1,Yes,Black,No,1,Fair,9,Yes,Yes,Yes,No,Yes,No
+Male,58,30,No,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,26,33,Yes,No,0,2,No,Black,Yes,0,Good,8,No,Yes,No,Yes,No,No
+Male,83,25,Yes,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,71,24,No,No,1,3,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,22,20,No,No,1,1,No,Black,No,1,Fair,5,Yes,No,Yes,No,No,No
+Female,47,40,No,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Male,29,35,Yes,Yes,1,2,Yes,White,Yes,1,Poor,8,Yes,Yes,Yes,No,Yes,Yes
+Female,44,22,Yes,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,55,32,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,Yes,No,No
+Female,82,31,Yes,No,0,3,Yes,White,No,0,Good,8,No,Yes,No,Yes,Yes,Yes
+Female,49,28,Yes,Yes,1,1,No,White,No,0,Good,8,No,No,No,No,No,No
+Female,82,32,No,No,1,1,No,Black,Yes,1,Fair,4,Yes,No,Yes,No,No,No
+Male,82,28,No,No,1,1,No,White,Yes,0,Very good,9,No,No,No,No,No,No
+Female,60,40,Yes,No,1,1,Yes,White,Yes,0,Very good,5,No,Yes,No,No,Yes,No
+Male,26,23,No,No,1,1,Yes,White,No,0,Good,7,No,No,No,No,Yes,No
+Male,24,29,No,No,0,2,No,Asian,No,0,Very good,7,No,No,No,No,No,No
+Female,28,34,No,Yes,0,2,Yes,Black,No,0,Poor,12,No,No,Yes,Yes,Yes,Yes
+Female,74,30,No,No,1,1,No,White,Yes,1,Fair,7,Yes,No,Yes,No,No,No
+Female,58,30,No,No,1,2,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Male,68,26,Yes,No,1,1,Yes,White,Yes,0,Good,10,No,No,No,No,Yes,No
+Female,39,36,Yes,Yes,0,3,Yes,Black,No,0,Poor,8,No,Yes,Yes,Yes,Yes,Yes
+Female,44,35,No,No,1,1,No,Black,Yes,1,Fair,7,Yes,No,Yes,No,No,No
+Female,44,36,Yes,No,0,1,No,White,No,0,Very good,8,No,Yes,No,Yes,No,No
+Female,23,24,No,No,0,1,No,White,No,0,Good,9,No,No,No,No,No,No
+Female,23,22,Yes,No,1,3,Yes,Black,Yes,0,Good,6,No,No,No,No,Yes,No
+Female,70,34,Yes,No,1,3,No,White,No,0,Good,6,No,Yes,No,No,No,Yes
+Female,60,25,No,No,1,3,No,White,No,0,Good,6,No,No,No,No,No,Yes
+Male,81,49,No,Yes,0,3,Yes,White,Yes,1,Poor,8,Yes,No,Yes,Yes,Yes,Yes
+Female,43,28,No,Yes,1,1,Yes,White,No,0,Poor,6,No,No,Yes,No,Yes,Yes
+Female,78,29,Yes,No,0,3,No,Black,Yes,0,Good,6,No,No,No,No,No,Yes
+Female,29,23,Yes,No,0,3,No,American Indian/Alaskan Native,Yes,0,Very good,7,No,No,No,No,No,Yes
+Female,76,35,Yes,No,0,1,No,White,No,0,Very good,8,No,Yes,No,Yes,No,No
+Female,64,26,No,No,0,1,No,Hispanic,Yes,0,Excellent,6,No,No,No,No,No,No
+Male,67,27,No,No,1,3,No,White,Yes,0,Good,7,No,No,No,No,No,Yes
+Male,68,20,Yes,No,1,2,Yes,White,No,1,Fair,6,Yes,No,Yes,No,Yes,No
+Female,48,34,No,No,1,1,Yes,White,Yes,1,Fair,9,Yes,No,Yes,No,Yes,No
+Female,51,43,Yes,No,0,1,No,White,Yes,0,Good,7,No,Yes,No,Yes,No,No
+Female,25,27,No,No,1,1,No,White,Yes,0,Excellent,9,No,No,No,No,No,No
+Male,57,39,No,No,1,1,No,White,Yes,0,Very good,5,No,No,No,No,No,No
+Male,67,36,Yes,No,1,1,Yes,White,Yes,0,Good,8,No,Yes,No,No,Yes,No
+Female,55,18,Yes,No,0,1,No,White,Yes,0,Good,5,No,Yes,No,No,No,No
+Male,44,39,Yes,No,1,3,Yes,White,Yes,1,Fair,8,Yes,Yes,Yes,No,Yes,Yes
+Female,39,32,No,No,0,1,No,Black,Yes,0,Very good,6,No,No,No,Yes,No,No
+Female,48,29,No,No,1,1,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Male,68,36,Yes,No,1,2,No,White,Yes,0,Good,8,No,Yes,No,No,No,No
+Male,48,29,Yes,No,1,1,No,Black,Yes,0,Very good,8,No,No,No,No,No,No
+Male,58,24,Yes,Yes,1,1,No,Black,Yes,0,Very good,7,No,Yes,No,No,No,No
+Female,70,32,Yes,No,1,3,No,White,Yes,0,Very good,8,No,Yes,No,No,No,Yes
+Female,57,23,No,No,1,1,No,Hispanic,Yes,1,Fair,8,Yes,No,Yes,No,No,No
+Male,25,24,Yes,No,1,1,No,White,No,0,Good,8,No,No,No,No,No,No
+Female,48,17,No,Yes,1,1,No,White,No,0,Good,8,No,No,No,No,No,No
+Female,67,26,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,27,28,No,No,0,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,24,21,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,46,29,No,Yes,1,1,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Male,74,25,Yes,No,1,2,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Male,32,27,No,No,1,1,No,White,Yes,0,Very good,9,No,No,No,No,No,No
+Female,34,24,No,No,0,1,No,White,No,0,Very good,7,No,No,No,No,No,No
+Female,50,27,No,No,1,2,No,Other,No,0,Very good,7,No,No,No,No,No,No
+Female,64,28,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,32,30,Yes,No,1,1,Yes,White,No,0,Good,9,No,Yes,No,No,Yes,No
+Female,48,32,No,Yes,1,1,Yes,White,No,0,Poor,4,No,No,Yes,No,Yes,Yes
+Female,23,39,Yes,No,0,1,No,White,No,0,Very good,8,No,Yes,No,Yes,No,No
+Female,79,27,No,Yes,1,3,No,White,Yes,1,Poor,7,Yes,No,Yes,No,No,Yes
+Female,21,31,No,No,1,1,No,Black,No,0,Good,8,No,No,No,No,No,No
+Male,43,36,Yes,No,1,1,Yes,White,Yes,0,Good,9,No,Yes,No,No,Yes,No
+Male,45,33,Yes,No,0,1,No,Black,Yes,1,Fair,8,Yes,Yes,Yes,Yes,No,No
+Female,59,35,Yes,No,1,1,No,White,No,1,Fair,10,Yes,Yes,Yes,No,No,No
+Female,23,24,No,No,0,1,No,Black,No,0,Good,8,No,No,No,No,No,No
+Male,57,18,Yes,Yes,1,1,Yes,White,No,1,Fair,9,Yes,Yes,Yes,No,Yes,Yes
+Female,51,24,Yes,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,82,28,No,No,0,1,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Female,44,23,Yes,No,1,3,No,Black,No,0,Very good,5,No,Yes,No,No,No,No
+Male,59,27,Yes,No,0,1,Yes,White,Yes,1,Fair,9,Yes,No,Yes,Yes,Yes,No
+Female,68,42,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,28,30,Yes,No,0,3,No,White,No,0,Good,7,No,Yes,No,No,No,Yes
+Female,58,33,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,Yes,No,No
+Female,82,23,No,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,48,29,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,55,31,No,No,0,3,No,White,No,1,Fair,7,Yes,No,Yes,Yes,No,Yes
+Female,63,33,Yes,No,1,1,No,White,No,0,Good,8,No,Yes,No,No,No,No
+Female,27,40,Yes,No,1,1,No,White,Yes,0,Excellent,8,No,Yes,No,No,No,No
+Female,60,27,No,No,0,2,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,73,27,No,No,0,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Male,66,19,Yes,No,1,2,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Female,69,26,No,No,1,1,No,White,No,0,Excellent,7,No,No,No,No,No,No
+Female,63,32,Yes,No,0,1,No,White,Yes,0,Very good,6,No,Yes,No,Yes,No,No
+Male,38,23,Yes,No,1,1,Yes,White,Yes,0,Very good,7,No,No,No,No,Yes,No
+Male,34,42,No,No,0,2,No,White,Yes,0,Very good,7,No,No,No,Yes,No,No
+Female,56,21,Yes,No,0,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Male,53,27,Yes,Yes,0,1,Yes,White,No,1,Poor,7,Yes,No,Yes,Yes,Yes,Yes
+Female,75,30,No,No,0,2,No,White,Yes,0,Good,10,No,No,No,No,No,No
+Female,60,31,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,27,23,No,No,0,1,Yes,White,No,0,Good,7,No,No,No,No,Yes,No
+Female,31,28,Yes,No,1,1,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Female,41,18,No,No,1,2,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,51,31,No,No,1,2,No,Other,Yes,0,Very good,7,No,No,No,No,No,No
+Male,26,32,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,Yes,No,No
+Male,74,22,No,No,1,1,No,Black,Yes,0,Very good,6,No,No,No,No,No,No
+Male,52,29,No,No,0,3,Yes,Black,Yes,1,Fair,12,Yes,No,Yes,Yes,Yes,Yes
+Female,31,37,No,No,1,1,Yes,White,No,1,Fair,8,Yes,No,Yes,No,Yes,No
+Female,26,20,No,No,0,2,Yes,White,No,0,Good,5,No,No,No,No,Yes,No
+Female,25,26,Yes,No,1,1,Yes,White,No,0,Good,10,No,No,No,No,Yes,No
+Female,75,24,No,No,1,1,No,Black,No,1,Fair,5,Yes,No,Yes,No,No,No
+Female,67,29,No,No,0,2,No,White,Yes,0,Good,9,No,No,No,No,No,No
+Female,29,29,No,No,0,1,No,Black,Yes,0,Very good,8,No,No,No,No,No,No
+Male,61,34,Yes,No,1,2,No,White,Yes,0,Excellent,7,No,Yes,No,No,No,No
+Male,42,35,Yes,No,1,1,No,White,Yes,0,Good,7,No,Yes,No,No,No,No
+Female,49,25,No,No,0,1,Yes,Other,No,1,Fair,7,Yes,No,Yes,Yes,Yes,No
+Female,85,31,Yes,No,1,1,Yes,Black,No,1,Fair,6,Yes,Yes,Yes,No,Yes,No
+Male,81,20,No,No,1,1,No,White,No,0,Very good,7,No,No,No,No,No,No
+Male,78,33,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,Yes,No,No
+Male,38,25,Yes,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,30,24,Yes,No,1,1,No,White,Yes,0,Good,3,No,Yes,No,No,No,No
+Female,46,28,No,Yes,0,3,Yes,White,No,1,Poor,4,Yes,No,Yes,Yes,Yes,Yes
+Male,68,39,Yes,Yes,0,1,No,Black,Yes,0,Very good,8,No,Yes,Yes,Yes,No,Yes
+Female,44,23,No,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,77,23,No,No,0,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,33,36,No,No,1,1,Yes,Black,Yes,0,Very good,12,No,No,No,No,Yes,No
+Female,58,24,No,No,0,2,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,40,28,No,No,0,1,No,Black,Yes,0,Very good,7,No,No,No,No,No,No
+Female,74,23,Yes,No,1,1,Yes,White,No,0,Good,7,No,No,No,No,Yes,No
+Female,80,21,No,No,0,1,No,Black,No,0,Good,7,No,No,No,No,No,No
+Female,30,23,Yes,No,1,3,Yes,White,Yes,0,Very good,8,No,No,No,No,Yes,No
+Male,59,30,Yes,No,1,1,No,Black,No,0,Good,8,No,Yes,No,No,No,No
+Male,78,35,Yes,No,0,1,Yes,White,No,0,Very good,8,No,Yes,No,Yes,Yes,No
+Female,25,30,Yes,No,0,1,No,White,Yes,0,Very good,8,No,Yes,No,No,No,No
+Female,45,24,No,No,1,2,No,White,No,0,Very good,8,No,No,No,No,No,No
+Male,77,29,No,No,1,2,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,79,21,Yes,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,51,22,No,No,0,1,No,White,Yes,0,Very good,4,No,No,No,No,No,No
+Female,21,33,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,80,27,No,No,0,1,Yes,Black,No,0,Good,12,No,No,No,No,Yes,No
+Female,56,23,No,No,0,3,No,Black,Yes,0,Good,5,No,No,No,No,No,Yes
+Female,22,25,No,No,1,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,62,25,Yes,No,0,2,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,31,27,Yes,Yes,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,48,30,No,No,0,2,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,51,47,No,No,1,1,Yes,White,Yes,1,Fair,7,Yes,No,Yes,No,Yes,No
+Female,82,26,Yes,No,1,3,Yes,Black,No,1,Fair,9,Yes,No,Yes,No,Yes,Yes
+Female,82,35,Yes,No,1,1,Yes,White,No,1,Fair,7,Yes,Yes,Yes,No,Yes,No
+Male,24,22,Yes,No,0,1,No,Other,Yes,0,Very good,6,No,No,No,No,No,No
+Female,52,43,Yes,No,1,1,No,Black,Yes,0,Very good,8,No,Yes,No,No,No,No
+Male,63,29,No,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,47,36,Yes,No,0,1,No,White,Yes,0,Good,9,No,Yes,No,Yes,No,No
+Female,43,26,Yes,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,57,26,No,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,48,28,No,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,34,36,No,No,0,2,Yes,White,Yes,1,Fair,5,Yes,No,Yes,Yes,Yes,No
+Female,37,25,Yes,Yes,1,1,Yes,White,No,1,Fair,8,Yes,Yes,Yes,No,Yes,Yes
+Female,41,35,No,No,1,1,Yes,Black,Yes,1,Fair,5,Yes,No,Yes,No,Yes,No
+Female,20,32,No,No,1,1,No,Black,Yes,0,Very good,8,No,No,No,No,No,No
+Male,69,36,No,No,0,1,No,White,Yes,0,Good,6,No,No,No,Yes,No,No
+Male,70,30,Yes,No,1,3,Yes,White,No,1,Fair,8,Yes,Yes,Yes,No,Yes,Yes
+Female,59,31,No,No,0,3,Yes,Black,No,1,Fair,7,Yes,No,Yes,Yes,Yes,Yes
+Female,80,31,Yes,Yes,1,1,Yes,White,Yes,1,Poor,5,Yes,Yes,Yes,No,Yes,Yes
+Male,64,25,No,No,0,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,48,27,No,No,1,2,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Male,74,32,Yes,No,1,1,No,White,Yes,0,Very good,8,No,Yes,No,No,No,No
+Male,71,42,No,No,1,2,No,White,No,0,Good,6,No,No,No,No,No,No
+Male,44,26,Yes,No,1,1,Yes,White,No,1,Fair,10,Yes,No,Yes,No,Yes,No
+Female,64,24,No,No,1,1,Yes,White,No,1,Fair,7,Yes,No,Yes,No,Yes,No
+Female,55,30,Yes,No,1,1,No,White,Yes,1,Fair,7,Yes,Yes,Yes,No,No,No
+Female,37,29,No,Yes,1,1,Yes,White,No,0,Poor,12,No,No,Yes,No,Yes,Yes
+Male,69,24,Yes,Yes,1,1,Yes,White,No,0,Good,8,No,Yes,No,No,Yes,No
+Male,42,25,Yes,No,1,1,No,White,No,0,Good,8,No,No,No,No,No,No
+Female,79,42,No,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Male,46,32,Yes,No,0,3,No,Black,Yes,0,Good,8,No,Yes,No,Yes,No,Yes
+Female,45,19,Yes,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,29,43,No,No,0,1,Yes,American Indian/Alaskan Native,No,1,Fair,7,Yes,No,Yes,Yes,Yes,No
+Female,46,29,No,No,0,1,No,Black,Yes,0,Good,2,No,No,No,No,No,No
+Female,61,30,No,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,20,25,No,No,1,1,No,Black,Yes,1,Fair,4,Yes,No,Yes,No,No,No
+Female,51,30,No,No,0,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,45,32,Yes,Yes,1,1,No,White,Yes,0,Excellent,5,No,Yes,No,No,No,Yes
+Female,29,26,Yes,Yes,0,1,No,White,Yes,0,Very good,7,No,No,Yes,No,No,No
+Female,61,29,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,47,22,No,No,1,2,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,50,32,Yes,Yes,1,3,No,White,Yes,0,Very good,7,No,Yes,No,No,No,Yes
+Female,67,32,Yes,No,1,2,No,White,Yes,0,Excellent,9,No,Yes,No,No,No,No
+Male,52,36,No,Yes,0,1,Yes,White,No,0,Poor,5,No,No,Yes,Yes,Yes,Yes
+Male,79,29,Yes,No,1,1,No,White,No,0,Good,6,No,No,No,No,No,No
+Female,55,29,No,No,0,1,Yes,White,No,0,Very good,10,No,No,No,No,Yes,No
+Male,45,31,Yes,No,1,1,No,Black,Yes,0,Good,6,No,Yes,No,No,No,No
+Male,30,26,No,No,0,1,No,Black,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,77,30,Yes,No,0,1,Yes,White,Yes,1,Fair,7,Yes,Yes,Yes,Yes,Yes,No
+Male,73,30,No,No,1,1,No,White,No,0,Very good,8,No,No,No,No,No,No
+Female,54,26,Yes,Yes,1,1,Yes,Black,Yes,1,Poor,7,Yes,No,Yes,No,Yes,Yes
+Female,28,23,No,No,1,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,65,39,Yes,No,1,2,Yes,Black,Yes,0,Very good,7,No,Yes,No,No,Yes,No
+Female,26,25,No,No,0,2,No,White,No,0,Good,12,No,No,No,No,No,No
+Female,65,28,No,No,0,1,Yes,Black,Yes,0,Excellent,1,No,No,No,No,Yes,No
+Male,32,20,Yes,No,0,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,38,29,No,No,1,1,Yes,White,Yes,0,Good,6,No,No,No,No,Yes,No
+Female,57,42,No,No,0,1,No,Black,Yes,0,Good,6,No,No,No,Yes,No,No
+Female,24,31,Yes,Yes,0,1,No,White,Yes,0,Very good,6,No,Yes,Yes,Yes,No,Yes
+Male,84,27,No,No,0,1,Yes,White,Yes,1,Fair,6,Yes,No,Yes,Yes,Yes,No
+Male,43,24,Yes,No,1,1,No,White,No,0,Good,8,No,No,No,No,No,No
+Male,83,39,Yes,No,1,1,No,White,Yes,1,Fair,10,Yes,Yes,Yes,No,No,No
+Male,37,32,Yes,No,1,2,No,White,Yes,1,Fair,6,Yes,Yes,Yes,No,No,No
+Male,43,38,No,No,0,1,No,Black,Yes,0,Very good,8,No,No,No,Yes,No,No
+Male,59,27,Yes,No,0,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,54,33,Yes,No,1,1,No,White,Yes,0,Very good,8,No,Yes,No,No,No,No
+Male,52,29,Yes,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,82,27,Yes,No,0,1,Yes,White,Yes,0,Good,7,No,No,No,No,Yes,No
+Female,23,27,Yes,No,0,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,69,34,No,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,22,22,No,Yes,1,3,Yes,White,No,1,Poor,6,Yes,No,Yes,No,Yes,Yes
+Male,73,20,Yes,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,55,26,Yes,No,1,3,No,Black,No,0,Very good,7,No,No,No,No,No,Yes
+Female,57,25,No,No,1,2,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,66,29,No,No,1,1,Yes,White,No,1,Fair,8,Yes,No,Yes,No,Yes,No
+Female,28,39,No,No,0,1,No,White,No,0,Good,6,No,No,No,Yes,No,No
+Female,28,24,Yes,No,1,1,Yes,White,No,1,Fair,5,Yes,Yes,Yes,No,Yes,No
+Female,66,33,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,Yes,No,No
+Male,74,25,Yes,Yes,1,1,No,White,Yes,1,Poor,10,Yes,Yes,Yes,No,No,Yes
+Female,62,27,Yes,No,1,1,Yes,White,No,1,Fair,5,Yes,Yes,Yes,No,Yes,No
+Female,59,30,No,No,1,1,Yes,White,Yes,0,Good,8,No,No,No,No,Yes,No
+Male,39,26,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,38,34,Yes,No,1,1,Yes,White,Yes,0,Good,7,No,Yes,No,No,Yes,No
+Female,56,32,No,No,0,2,Yes,White,Yes,1,Fair,7,Yes,No,Yes,Yes,Yes,No
+Female,71,30,No,No,1,2,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Male,46,28,Yes,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,24,32,Yes,No,1,1,Yes,White,Yes,1,Fair,9,Yes,Yes,Yes,No,Yes,No
+Male,39,45,Yes,No,1,2,Yes,White,No,0,Good,8,No,Yes,No,No,Yes,No
+Female,39,31,Yes,No,1,1,Yes,White,Yes,1,Fair,7,Yes,Yes,Yes,No,Yes,No
+Female,71,41,Yes,No,1,3,No,White,Yes,1,Fair,8,Yes,Yes,Yes,No,No,Yes
+Female,62,31,Yes,No,0,1,Yes,White,No,0,Very good,6,No,Yes,No,Yes,Yes,No
+Female,26,32,No,No,0,2,Yes,Black,Yes,0,Good,16,No,No,No,Yes,Yes,No
+Female,72,27,Yes,No,0,1,Yes,White,Yes,1,Fair,5,Yes,Yes,Yes,Yes,Yes,No
+Female,75,24,No,No,0,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,29,37,No,No,1,1,No,Black,Yes,0,Very good,8,No,No,No,No,No,No
+Male,39,27,No,Yes,1,1,Yes,White,No,0,Poor,7,No,No,Yes,No,Yes,Yes
+Female,53,32,Yes,No,0,1,No,White,No,0,Good,7,No,Yes,No,Yes,No,No
+Female,44,26,Yes,No,1,1,No,White,No,1,Fair,8,Yes,No,Yes,No,No,No
+Female,44,38,Yes,No,1,1,No,White,Yes,1,Fair,4,Yes,Yes,Yes,No,No,No
+Male,52,33,Yes,No,0,1,No,White,Yes,0,Very good,8,No,Yes,No,Yes,No,No
+Male,69,23,Yes,No,0,1,No,White,No,0,Very good,8,No,No,No,No,No,No
+Female,46,32,No,No,0,1,No,Black,No,0,Good,8,No,No,No,Yes,No,No
+Male,59,25,Yes,No,1,3,Yes,White,No,1,Fair,8,Yes,No,Yes,No,Yes,Yes
+Male,78,22,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,48,34,Yes,No,0,1,Yes,White,No,1,Fair,7,Yes,Yes,Yes,Yes,Yes,No
+Male,28,30,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,69,29,Yes,No,1,1,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Male,62,41,No,No,1,2,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Male,83,32,No,No,1,3,No,White,Yes,0,Good,8,No,No,No,No,No,Yes
+Female,23,29,Yes,Yes,1,1,Yes,Black,Yes,0,Poor,7,No,No,Yes,No,Yes,Yes
+Female,34,25,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,81,25,No,No,1,1,No,Black,Yes,0,Very good,8,No,No,No,No,No,No
+Female,72,25,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,25,35,No,No,0,1,No,White,Yes,0,Good,7,No,No,No,Yes,No,No
+Female,75,35,No,No,1,1,No,Black,No,0,Very good,7,No,No,No,No,No,No
+Female,66,24,No,No,1,1,No,Black,No,0,Very good,8,No,No,No,No,No,No
+Female,52,33,Yes,No,0,1,No,Black,No,0,Good,7,No,Yes,No,Yes,No,No
+Male,83,28,No,No,1,1,No,Black,Yes,0,Very good,9,No,No,No,No,No,No
+Male,78,26,No,No,1,2,No,Black,Yes,0,Excellent,6,No,No,No,No,No,No
+Male,36,28,No,No,0,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,34,30,Yes,No,0,3,Yes,Black,Yes,1,Fair,6,Yes,Yes,Yes,Yes,Yes,Yes
+Male,42,26,No,No,1,3,No,Black,Yes,0,Good,6,No,No,No,No,No,Yes
+Female,26,27,No,No,1,1,Yes,Black,Yes,1,Fair,8,Yes,No,Yes,No,Yes,No
+Male,80,28,No,No,0,1,Yes,White,Yes,1,Fair,3,Yes,No,Yes,Yes,Yes,No
+Female,55,29,Yes,No,1,1,Yes,Black,No,0,Very good,8,No,No,No,No,Yes,No
+Male,25,29,Yes,No,0,2,No,White,Yes,0,Good,10,No,No,No,No,No,No
+Male,41,23,Yes,Yes,0,2,Yes,White,Yes,0,Poor,8,No,Yes,Yes,Yes,Yes,Yes
+Female,69,25,No,No,1,1,Yes,Black,Yes,1,Fair,6,Yes,No,Yes,No,Yes,No
+Female,25,36,No,No,1,1,No,White,Yes,1,Fair,6,Yes,No,Yes,No,No,No
+Male,62,28,Yes,No,0,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,51,42,Yes,No,1,2,No,Black,Yes,0,Excellent,8,No,Yes,No,No,No,No
+Female,23,50,No,No,1,1,Yes,White,No,1,Fair,8,Yes,No,Yes,No,Yes,No
+Female,62,24,No,Yes,0,1,No,White,No,0,Poor,8,No,No,Yes,Yes,No,Yes
+Female,73,28,No,Yes,0,1,Yes,White,No,1,Poor,4,Yes,No,Yes,Yes,Yes,Yes
+Female,37,21,No,No,1,1,No,White,No,0,Good,8,No,No,No,No,No,No
+Male,79,26,No,No,1,2,No,Black,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,83,39,Yes,No,1,1,No,White,Yes,0,Excellent,7,No,Yes,No,No,No,No
+Female,78,31,No,No,0,1,No,Black,Yes,0,Very good,6,No,No,No,Yes,No,No
+Female,35,23,Yes,No,0,2,No,Black,No,1,Fair,5,Yes,Yes,Yes,Yes,No,No
+Female,57,21,Yes,No,0,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Male,68,25,No,No,1,1,No,White,Yes,1,Fair,10,Yes,No,Yes,No,No,No
+Male,41,24,Yes,No,1,1,Yes,White,No,1,Fair,10,Yes,No,Yes,No,Yes,No
+Male,64,27,Yes,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,35,59,No,No,1,3,No,White,Yes,0,Excellent,7,No,No,No,No,No,Yes
+Female,76,35,Yes,No,1,1,Yes,Black,Yes,0,Good,6,No,Yes,No,No,Yes,No
+Female,72,17,No,No,0,1,No,Black,Yes,0,Very good,8,No,No,No,No,No,No
+Female,30,36,No,Yes,1,3,Yes,Black,No,0,Poor,12,No,No,Yes,No,Yes,Yes
+Female,85,29,No,No,0,3,No,White,Yes,0,Very good,10,No,No,No,No,No,Yes
+Male,83,30,No,No,0,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Male,80,23,Yes,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Male,47,29,No,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,20,26,Yes,No,1,1,Yes,White,Yes,0,Good,6,No,No,No,No,Yes,No
+Male,33,44,No,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,77,31,Yes,Yes,1,1,Yes,White,Yes,1,Poor,10,Yes,Yes,Yes,No,Yes,Yes
+Male,59,29,Yes,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,65,26,No,No,0,3,No,Black,No,0,Good,8,No,No,No,No,No,Yes
+Male,60,25,No,No,1,2,Yes,White,No,0,Good,7,No,No,No,No,Yes,No
+Female,61,22,No,No,0,1,No,White,No,0,Good,9,No,No,No,No,No,No
+Male,83,32,Yes,No,0,2,Yes,White,Yes,1,Fair,6,Yes,Yes,Yes,Yes,Yes,No
+Male,24,43,No,No,1,1,No,White,No,1,Fair,6,Yes,No,Yes,No,No,No
+Male,40,24,No,No,0,2,No,White,Yes,0,Very good,9,No,No,No,No,No,No
+Female,35,35,No,No,1,1,Yes,White,Yes,0,Good,6,No,No,No,No,Yes,No
+Female,61,31,Yes,Yes,1,1,Yes,White,No,1,Poor,6,Yes,Yes,Yes,No,Yes,Yes
+Female,46,27,Yes,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,29,25,Yes,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Male,41,31,No,No,0,1,No,White,Yes,0,Very good,9,No,No,No,Yes,No,No
+Female,44,26,No,No,1,1,No,White,No,0,Very good,9,No,No,No,No,No,No
+Male,75,28,Yes,No,0,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,46,28,No,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Male,40,22,No,No,1,1,No,Black,Yes,0,Very good,7,No,No,No,No,No,No
+Male,44,42,No,No,0,1,No,White,Yes,0,Excellent,6,No,No,No,Yes,No,No
+Male,77,32,Yes,No,1,1,No,White,Yes,0,Very good,7,No,Yes,No,No,No,No
+Male,78,22,Yes,No,0,2,No,Black,No,0,Good,10,No,No,No,No,No,No
+Male,28,27,Yes,No,1,1,Yes,White,No,1,Fair,8,Yes,No,Yes,No,Yes,No
+Female,43,25,No,No,1,1,Yes,Black,No,0,Good,7,No,No,No,No,Yes,No
+Male,60,26,No,No,0,1,No,White,Yes,1,Fair,7,Yes,No,Yes,Yes,No,No
+Female,80,34,No,No,1,1,Yes,White,No,1,Fair,5,Yes,No,Yes,No,Yes,No
+Female,63,21,Yes,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,48,33,Yes,No,1,1,Yes,Black,Yes,0,Good,6,No,Yes,No,No,Yes,No
+Male,53,38,No,No,0,2,No,White,No,0,Good,5,No,No,No,Yes,No,No
+Female,52,31,Yes,No,1,1,No,White,No,0,Good,8,No,Yes,No,No,No,No
+Female,55,32,No,No,1,3,No,Black,No,1,Fair,7,Yes,No,Yes,No,No,Yes
+Male,21,27,No,No,0,3,No,Black,Yes,0,Good,7,No,No,No,No,No,Yes
+Male,76,27,Yes,No,0,1,No,Black,Yes,1,Fair,6,Yes,No,Yes,Yes,No,No
+Female,58,35,No,No,1,2,No,White,No,1,Fair,7,Yes,No,Yes,No,No,No
+Male,52,26,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,39,27,No,No,1,3,No,Black,Yes,0,Very good,8,No,No,No,No,No,Yes
+Male,59,20,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,36,26,No,No,0,1,Yes,Black,Yes,1,Fair,7,Yes,No,Yes,Yes,Yes,No
+Female,29,24,No,No,0,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,82,21,Yes,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,67,22,Yes,Yes,0,1,Yes,Black,No,1,Poor,18,Yes,Yes,Yes,Yes,Yes,Yes
+Female,61,34,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,36,31,No,No,0,1,Yes,White,No,1,Fair,10,Yes,No,Yes,Yes,Yes,No
+Male,58,32,Yes,Yes,1,2,Yes,Black,No,0,Good,5,No,Yes,No,No,Yes,Yes
+Female,24,37,No,No,1,1,Yes,Black,No,0,Good,8,No,No,No,No,Yes,No
+Female,81,30,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,66,24,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,38,23,Yes,Yes,0,1,Yes,White,No,0,Poor,10,No,Yes,Yes,Yes,Yes,Yes
+Female,78,35,No,No,1,2,Yes,White,Yes,0,Very good,7,No,No,No,No,Yes,No
+Male,24,25,Yes,No,0,1,No,White,No,0,Good,8,No,No,No,No,No,No
+Female,83,23,Yes,No,1,2,No,White,No,0,Very good,6,No,No,No,No,No,No
+Male,32,25,Yes,No,1,1,Yes,Black,Yes,0,Good,7,No,No,No,No,Yes,No
+Female,49,24,No,No,0,1,No,Black,Yes,1,Fair,6,Yes,No,Yes,Yes,No,No
+Female,29,30,Yes,No,1,1,Yes,White,No,1,Fair,3,Yes,Yes,Yes,No,Yes,No
+Female,68,33,Yes,No,0,2,No,White,Yes,0,Good,9,No,Yes,No,Yes,No,No
+Female,44,26,No,No,1,1,No,Black,Yes,0,Good,15,No,No,No,No,No,No
+Female,59,25,No,No,0,2,No,Black,Yes,0,Good,6,No,No,No,No,No,No
+Male,68,34,Yes,No,0,1,Yes,White,Yes,0,Good,5,No,Yes,No,Yes,Yes,No
+Male,23,50,No,No,0,1,No,White,Yes,1,Fair,7,Yes,No,Yes,Yes,No,No
+Female,81,27,No,No,1,2,No,Black,No,1,Fair,8,Yes,No,Yes,No,No,No
+Female,55,31,No,No,0,1,Yes,White,No,0,Good,3,No,No,No,Yes,Yes,No
+Female,37,37,No,No,1,1,No,White,No,0,Good,8,No,No,No,No,No,No
+Female,51,25,No,No,1,3,No,Black,Yes,1,Fair,8,Yes,No,Yes,No,No,Yes
+Female,83,25,No,No,1,3,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Female,33,30,Yes,No,1,1,No,White,Yes,0,Very good,6,No,Yes,No,No,No,No
+Female,69,48,No,No,0,1,Yes,Black,Yes,1,Fair,7,Yes,No,Yes,Yes,Yes,No
+Female,40,40,No,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,85,25,No,No,0,3,No,Black,No,0,Good,7,No,No,No,No,No,Yes
+Male,57,27,Yes,No,1,3,No,White,Yes,0,Good,6,No,No,No,No,No,Yes
+Male,46,27,No,No,1,3,No,White,Yes,0,Good,7,No,No,No,No,No,Yes
+Female,57,26,No,No,0,1,No,Black,Yes,0,Good,6,No,No,No,No,No,No
+Male,75,30,Yes,Yes,1,1,No,White,No,1,Poor,9,Yes,Yes,Yes,No,No,Yes
+Female,27,25,No,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Male,64,28,Yes,Yes,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Male,84,34,No,No,1,3,No,White,Yes,0,Good,7,No,No,No,No,No,Yes
+Female,61,32,Yes,No,1,1,Yes,White,No,1,Fair,6,Yes,Yes,Yes,No,Yes,No
+Male,72,24,Yes,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,74,32,Yes,No,1,1,Yes,White,Yes,1,Fair,6,Yes,Yes,Yes,No,Yes,No
+Female,53,44,Yes,No,0,3,Yes,White,Yes,0,Very good,8,No,Yes,No,Yes,Yes,Yes
+Female,22,30,No,No,1,1,Yes,White,Yes,0,Excellent,5,No,No,No,No,Yes,No
+Female,83,52,No,No,0,1,Yes,White,Yes,0,Good,8,No,No,No,Yes,Yes,No
+Female,44,37,Yes,No,0,3,No,White,Yes,0,Excellent,6,No,Yes,No,Yes,No,Yes
+Female,59,25,No,No,1,1,No,White,Yes,1,Fair,7,Yes,No,Yes,No,No,No
+Male,65,36,Yes,No,0,2,No,White,No,1,Fair,7,Yes,Yes,Yes,Yes,No,No
+Female,64,25,No,No,0,3,No,Black,Yes,0,Very good,12,No,No,No,No,No,Yes
+Female,65,30,No,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,68,28,No,No,1,2,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,26,31,Yes,No,0,1,No,American Indian/Alaskan Native,Yes,0,Good,8,No,Yes,No,Yes,No,No
+Female,56,27,No,No,0,1,No,White,No,0,Very good,8,No,No,No,No,No,No
+Female,46,22,No,No,1,1,No,White,No,0,Very good,7,No,No,No,No,No,No
+Female,47,23,No,No,1,2,Yes,White,No,1,Fair,9,Yes,No,Yes,No,Yes,No
+Female,79,45,No,No,1,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Female,27,22,No,No,1,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Male,27,24,Yes,No,0,1,No,White,No,0,Very good,8,No,No,No,No,No,No
+Female,78,25,No,No,1,1,No,Black,No,0,Very good,7,No,No,No,No,No,No
+Male,82,29,Yes,Yes,1,1,No,White,No,0,Excellent,5,No,Yes,No,No,No,Yes
+Female,43,29,Yes,No,1,1,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Male,32,29,Yes,No,1,3,No,White,Yes,0,Very good,7,No,No,No,No,No,Yes
+Male,63,30,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,42,41,Yes,No,1,3,No,White,Yes,0,Very good,8,No,Yes,No,No,No,Yes
+Male,59,25,No,No,0,1,No,Black,No,0,Good,8,No,No,No,No,No,No
+Male,72,28,No,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,79,26,No,No,1,1,No,Other,Yes,0,Very good,8,No,No,No,No,No,No
+Female,42,23,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Male,57,46,Yes,No,0,1,No,White,Yes,0,Good,9,No,Yes,No,Yes,No,No
+Female,85,29,Yes,Yes,0,2,Yes,Black,No,1,Poor,5,Yes,Yes,Yes,Yes,Yes,Yes
+Female,57,31,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,Yes,No,No
+Female,70,25,No,No,1,1,No,Black,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,59,28,Yes,No,1,2,Yes,White,Yes,0,Very good,8,No,No,No,No,Yes,No
+Female,21,28,No,No,1,1,No,Black,No,0,Good,6,No,No,No,No,No,No
+Male,78,23,No,No,0,1,No,White,No,0,Good,8,No,No,No,No,No,No
+Female,22,41,No,No,1,1,Yes,Black,Yes,1,Fair,9,Yes,No,Yes,No,Yes,No
+Male,62,32,Yes,Yes,0,1,No,Black,Yes,1,Poor,8,Yes,Yes,Yes,Yes,No,Yes
+Male,23,27,No,No,0,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Male,80,25,Yes,No,1,1,Yes,White,Yes,0,Good,8,No,No,No,No,Yes,No
+Male,50,24,No,No,0,3,No,White,Yes,0,Very good,8,No,No,No,No,No,Yes
+Female,33,25,No,No,0,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Female,38,34,No,Yes,0,1,No,Black,No,0,Poor,8,No,No,Yes,Yes,No,Yes
+Female,47,26,Yes,No,1,2,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,30,30,No,No,0,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Male,64,26,Yes,No,1,1,No,Black,Yes,0,Good,5,No,Yes,No,No,No,No
+Female,27,23,No,No,0,3,No,White,Yes,0,Excellent,7,No,No,No,No,No,Yes
+Female,68,27,No,No,0,2,No,Black,Yes,0,Very good,8,No,No,No,No,No,No
+Female,48,34,No,No,0,1,No,White,Yes,1,Fair,8,Yes,No,Yes,Yes,No,No
+Female,71,32,No,No,1,3,No,White,Yes,0,Very good,7,No,No,No,No,No,Yes
+Male,65,26,Yes,No,0,1,No,Other,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,24,29,No,No,0,3,No,Black,Yes,0,Good,7,No,No,No,No,No,Yes
+Female,23,35,No,No,1,1,No,White,No,0,Good,8,No,No,No,No,No,No
+Female,64,34,No,No,0,1,No,White,Yes,0,Excellent,6,No,No,No,Yes,No,No
+Male,85,32,Yes,Yes,0,1,No,White,No,0,Very good,6,No,Yes,Yes,Yes,No,Yes
+Male,31,28,Yes,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,44,21,Yes,No,1,1,No,Other,No,0,Very good,8,No,No,No,No,No,No
+Male,35,31,Yes,No,1,2,No,White,Yes,0,Very good,6,No,Yes,No,No,No,No
+Male,20,30,Yes,No,1,3,No,White,Yes,0,Excellent,8,No,Yes,No,No,No,Yes
+Male,52,34,Yes,No,0,3,No,White,Yes,1,Fair,7,Yes,Yes,Yes,Yes,No,Yes
+Female,52,38,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,63,30,Yes,No,0,1,No,White,Yes,0,Very good,5,No,Yes,No,No,No,No
+Male,61,44,No,No,1,3,No,White,Yes,0,Good,8,No,No,No,No,No,Yes
+Male,41,44,No,No,1,1,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Female,41,31,Yes,No,1,3,No,White,Yes,0,Very good,6,No,Yes,No,No,No,Yes
+Female,73,29,Yes,No,0,1,Yes,White,No,1,Fair,6,Yes,No,Yes,Yes,Yes,No
+Female,67,33,Yes,No,1,1,No,White,Yes,1,Fair,7,Yes,Yes,Yes,No,No,No
+Female,37,22,No,No,0,3,No,White,Yes,0,Very good,8,No,No,No,No,No,Yes
+Male,52,37,No,No,0,3,Yes,White,No,0,Good,7,No,No,No,Yes,Yes,Yes
+Male,51,26,Yes,No,0,2,Yes,Black,Yes,0,Good,7,No,No,No,No,Yes,No
+Female,34,40,No,No,1,2,No,White,No,0,Good,9,No,No,No,No,No,No
+Female,36,24,No,No,1,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Male,78,23,No,No,1,3,No,Black,Yes,0,Good,6,No,No,No,No,No,No
+Male,77,26,Yes,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,73,28,No,No,0,3,No,White,Yes,0,Very good,8,No,No,No,No,No,Yes
+Female,66,26,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,73,31,No,No,0,1,No,White,Yes,0,Very good,8,No,No,No,Yes,No,No
+Female,31,31,No,No,0,1,No,White,Yes,0,Good,7,No,No,No,Yes,No,No
+Female,74,37,Yes,Yes,0,1,No,White,Yes,0,Good,8,No,Yes,Yes,Yes,No,Yes
+Female,32,25,Yes,No,0,1,No,White,No,0,Very good,6,No,No,No,No,No,No
+Male,74,24,Yes,Yes,1,1,Yes,White,Yes,1,Poor,4,Yes,Yes,Yes,No,Yes,Yes
+Male,81,34,Yes,No,1,1,No,White,Yes,0,Good,8,No,Yes,No,No,No,No
+Female,75,55,No,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,29,31,Yes,No,1,1,No,Black,Yes,0,Good,8,No,Yes,No,No,No,No
+Male,35,27,Yes,No,1,1,Yes,White,No,1,Fair,10,Yes,No,Yes,No,Yes,No
+Male,79,29,No,Yes,1,1,No,Black,No,1,Poor,5,Yes,No,Yes,No,No,Yes
+Female,62,18,No,No,1,1,No,Black,Yes,0,Good,9,No,No,No,No,No,No
+Female,68,46,No,Yes,0,2,Yes,Black,No,1,Poor,6,Yes,No,Yes,Yes,Yes,Yes
+Female,29,28,No,No,0,2,No,Black,Yes,0,Very good,6,No,No,No,No,No,No
+Male,60,27,No,No,0,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Male,61,24,Yes,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,50,31,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,Yes,No,No
+Female,40,31,No,No,0,1,No,White,Yes,0,Good,6,No,No,No,Yes,No,No
+Female,49,24,No,No,0,1,No,Black,Yes,1,Fair,8,Yes,No,Yes,Yes,No,No
+Male,27,27,Yes,No,0,1,No,White,Yes,0,Good,10,No,No,No,No,No,No
+Female,50,40,No,No,1,1,Yes,White,No,0,Very good,9,No,No,No,No,Yes,No
+Female,53,24,No,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,48,27,Yes,No,0,3,Yes,White,Yes,1,Fair,5,Yes,Yes,Yes,Yes,Yes,Yes
+Female,48,31,Yes,Yes,1,1,No,White,Yes,0,Poor,6,No,Yes,Yes,No,No,Yes
+Female,47,34,No,No,1,1,No,White,Yes,0,Very good,9,No,No,No,No,No,No
+Male,40,43,Yes,Yes,0,1,No,Black,Yes,1,Poor,6,Yes,Yes,Yes,Yes,No,Yes
+Female,56,35,Yes,No,1,2,No,White,No,0,Excellent,10,No,Yes,No,No,No,No
+Male,70,28,Yes,No,0,1,No,Black,Yes,0,Good,6,No,No,No,No,No,No
+Female,75,31,No,No,1,1,No,Asian,Yes,0,Good,7,No,No,No,No,No,No
+Female,24,30,No,No,1,1,Yes,White,No,0,Good,7,No,No,No,No,Yes,No
+Female,67,16,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,80,28,Yes,No,1,1,No,White,No,0,Good,8,No,No,No,No,No,No
+Female,70,31,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,71,29,Yes,No,1,1,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Female,52,35,No,No,1,1,No,Black,No,0,Good,6,No,No,No,No,No,No
+Female,66,47,No,No,0,1,No,White,Yes,0,Excellent,7,No,No,No,Yes,No,No
+Female,41,24,No,No,1,1,Yes,White,No,0,Good,5,No,No,No,No,Yes,No
+Male,81,34,No,No,0,3,Yes,White,Yes,0,Good,5,No,No,No,Yes,Yes,Yes
+Female,62,26,Yes,Yes,0,1,Yes,White,Yes,0,Poor,8,No,No,Yes,Yes,Yes,Yes
+Female,53,22,Yes,No,0,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,43,25,Yes,No,1,1,Yes,White,Yes,1,Fair,6,Yes,No,Yes,No,Yes,No
+Male,41,23,No,No,1,1,Yes,White,Yes,1,Fair,9,Yes,No,Yes,No,Yes,No
+Female,32,21,No,No,0,3,No,White,Yes,0,Very good,6,No,No,No,No,No,Yes
+Female,48,26,No,No,1,3,No,White,Yes,0,Good,8,No,No,No,No,No,Yes
+Female,47,18,Yes,Yes,1,3,No,White,Yes,1,Fair,8,Yes,Yes,Yes,No,No,Yes
+Female,74,25,Yes,No,1,3,Yes,White,No,0,Very good,6,No,No,No,No,Yes,Yes
+Male,77,23,Yes,No,1,1,No,Black,No,0,Good,6,No,No,No,No,No,No
+Female,77,30,No,No,1,3,No,White,No,0,Good,10,No,No,No,No,No,Yes
+Female,68,18,No,No,1,1,No,Black,Yes,0,Good,5,No,No,No,No,No,No
+Female,85,26,No,No,1,1,Yes,Black,No,0,Good,5,No,No,No,No,Yes,No
+Female,36,27,Yes,No,0,1,No,Black,No,0,Good,7,No,No,No,No,No,No
+Female,67,30,No,No,1,1,Yes,White,Yes,0,Good,8,No,No,No,No,Yes,No
+Male,47,27,No,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,85,24,No,No,1,1,Yes,Black,Yes,1,Fair,5,Yes,No,Yes,No,Yes,No
+Male,35,28,No,No,0,1,No,Black,Yes,0,Good,12,No,No,No,No,No,No
+Male,63,36,No,No,1,1,No,White,Yes,1,Fair,6,Yes,No,Yes,No,No,No
+Female,59,20,No,No,1,1,No,Black,Yes,0,Very good,8,No,No,No,No,No,No
+Female,27,30,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,20,24,No,No,1,1,Yes,White,No,0,Good,8,No,No,No,No,Yes,No
+Male,70,27,No,No,0,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,66,28,No,No,1,1,Yes,Black,No,1,Fair,6,Yes,No,Yes,No,Yes,No
+Male,32,30,No,No,0,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,81,18,No,No,1,2,Yes,White,No,1,Fair,8,Yes,No,Yes,No,Yes,No
+Female,62,31,No,No,0,1,No,Black,Yes,0,Good,4,No,No,No,Yes,No,No
+Male,34,33,Yes,No,1,1,No,White,Yes,0,Good,8,No,Yes,No,No,No,No
+Female,40,41,Yes,No,0,1,Yes,Black,No,0,Good,5,No,Yes,No,Yes,Yes,No
+Male,45,41,Yes,No,1,1,No,White,Yes,0,Very good,10,No,Yes,No,No,No,No
+Female,66,42,No,No,0,1,No,White,Yes,0,Excellent,7,No,No,No,Yes,No,No
+Female,25,23,No,No,0,2,Yes,Black,Yes,1,Fair,1,Yes,No,Yes,Yes,Yes,No
+Female,69,24,No,Yes,1,1,Yes,Black,Yes,1,Poor,6,Yes,No,Yes,No,Yes,Yes
+Male,39,38,No,No,0,1,No,White,Yes,0,Good,10,No,No,No,Yes,No,No
+Male,40,32,No,No,0,2,No,Black,No,0,Good,7,No,No,No,Yes,No,No
+Female,31,30,No,No,1,3,No,Black,Yes,0,Excellent,7,No,No,No,No,No,Yes
+Male,34,29,No,No,1,2,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,65,25,No,No,1,1,No,White,Yes,0,Good,5,No,No,No,No,No,No
+Female,70,26,No,No,0,1,No,Black,No,0,Good,6,No,No,No,No,No,No
+Female,71,29,No,No,0,3,Yes,Black,No,1,Fair,8,Yes,No,Yes,Yes,Yes,Yes
+Female,69,28,No,No,1,1,No,Black,Yes,0,Good,14,No,No,No,No,No,No
+Male,36,35,No,Yes,1,3,Yes,White,No,0,Poor,10,No,No,Yes,No,Yes,Yes
+Female,27,35,No,No,1,1,No,Black,Yes,0,Good,5,No,No,No,No,No,No
+Female,59,21,No,Yes,0,2,Yes,Black,No,1,Poor,7,Yes,No,Yes,Yes,Yes,Yes
+Male,85,25,Yes,No,0,2,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,62,22,No,No,0,1,Yes,White,Yes,1,Fair,8,Yes,No,Yes,Yes,Yes,No
+Female,54,34,Yes,No,1,1,No,Black,Yes,0,Very good,8,No,Yes,No,No,No,No
+Female,83,31,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,Yes,No,No
+Female,54,23,No,No,1,1,Yes,White,No,0,Good,7,No,No,No,No,Yes,No
+Female,51,23,Yes,No,1,2,No,White,No,0,Good,8,No,No,No,No,No,No
+Female,53,30,Yes,No,1,1,Yes,White,Yes,1,Fair,6,Yes,Yes,Yes,No,Yes,No
+Female,82,29,Yes,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,70,32,No,No,1,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Female,55,22,No,No,1,1,No,Black,No,0,Good,7,No,No,No,No,No,No
+Male,60,24,No,No,1,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Male,82,21,Yes,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,54,29,Yes,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,54,37,No,No,1,1,No,White,Yes,0,Good,9,No,No,No,No,No,No
+Male,22,40,No,No,1,2,No,White,No,0,Good,9,No,No,No,No,No,No
+Female,66,28,No,No,0,1,Yes,Black,No,1,Fair,6,Yes,No,Yes,Yes,Yes,No
+Male,23,27,No,No,0,2,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Female,56,40,No,No,1,1,No,White,No,0,Excellent,8,No,No,No,No,No,No
+Female,28,22,No,No,1,3,No,White,Yes,0,Very good,9,No,No,No,No,No,No
+Female,79,25,No,No,1,1,No,Black,No,0,Very good,5,No,No,No,No,No,No
+Male,39,30,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,60,30,Yes,Yes,0,2,No,White,Yes,0,Poor,10,No,Yes,Yes,Yes,No,Yes
+Female,30,29,No,No,0,2,Yes,White,No,1,Fair,10,Yes,No,Yes,Yes,Yes,No
+Female,45,25,No,No,1,1,No,White,Yes,1,Fair,9,Yes,No,Yes,No,No,No
+Female,75,25,Yes,No,0,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Male,71,27,Yes,No,1,1,No,Black,Yes,0,Excellent,9,No,No,No,No,No,No
+Female,54,24,No,No,1,1,No,White,Yes,0,Excellent,5,No,No,No,No,No,No
+Male,22,20,Yes,No,0,3,No,White,Yes,0,Very good,6,No,No,No,No,No,Yes
+Female,45,29,Yes,No,1,1,No,White,No,0,Very good,6,No,No,No,No,No,No
+Female,72,39,Yes,No,0,1,No,White,Yes,1,Fair,6,Yes,Yes,Yes,Yes,No,No
+Female,26,35,Yes,No,0,2,No,White,No,0,Very good,9,No,Yes,No,Yes,No,No
+Female,69,34,Yes,No,1,1,No,White,Yes,1,Fair,6,Yes,Yes,Yes,No,No,No
+Female,60,22,No,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Male,49,28,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,62,46,No,No,0,1,No,White,No,0,Very good,9,No,No,No,Yes,No,No
+Female,51,32,No,No,0,1,Yes,Black,Yes,1,Fair,8,Yes,No,Yes,Yes,Yes,No
+Male,32,26,Yes,Yes,1,1,Yes,White,Yes,0,Poor,7,No,No,Yes,No,Yes,Yes
+Female,25,33,No,No,1,1,Yes,White,Yes,0,Good,3,No,No,No,No,Yes,No
+Female,22,36,No,No,0,1,No,White,Yes,0,Excellent,7,No,No,No,Yes,No,No
+Male,71,42,Yes,No,1,2,No,White,No,0,Good,7,No,Yes,No,No,No,No
+Female,76,31,Yes,No,1,3,No,Black,Yes,0,Excellent,9,No,Yes,No,No,No,Yes
+Female,21,45,Yes,No,1,1,Yes,Black,Yes,1,Fair,5,Yes,Yes,Yes,No,Yes,No
+Male,24,32,Yes,No,0,1,No,Hispanic,Yes,0,Good,7,No,Yes,No,Yes,No,No
+Female,58,54,Yes,No,0,2,No,White,Yes,0,Very good,6,No,Yes,No,Yes,No,No
+Female,48,26,Yes,No,1,1,No,Black,No,0,Very good,8,No,No,No,No,No,No
+Female,37,34,Yes,No,0,1,No,White,Yes,0,Very good,8,No,Yes,No,Yes,No,No
+Female,33,33,No,No,0,3,No,White,Yes,0,Very good,6,No,No,No,Yes,No,Yes
+Male,32,27,Yes,No,0,1,No,Black,No,1,Fair,7,Yes,No,Yes,Yes,No,No
+Female,22,24,No,No,0,1,Yes,White,No,0,Good,6,No,No,No,No,Yes,No
+Female,30,27,Yes,Yes,1,1,Yes,White,No,1,Poor,8,Yes,No,Yes,No,Yes,Yes
+Female,74,39,No,No,0,1,No,Black,Yes,0,Good,10,No,No,No,Yes,No,No
+Female,66,20,No,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,30,22,No,No,0,1,No,Black,Yes,0,Excellent,6,No,No,No,No,No,No
+Female,68,25,No,No,1,2,Yes,White,Yes,0,Good,8,No,No,No,No,Yes,No
+Female,72,25,Yes,No,1,3,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Male,66,27,Yes,Yes,1,1,Yes,White,No,0,Poor,8,No,No,Yes,No,Yes,Yes
+Male,22,26,No,No,0,2,Yes,White,No,1,Fair,6,Yes,No,Yes,Yes,Yes,No
+Female,25,34,No,Yes,1,3,Yes,Black,No,1,Poor,6,Yes,No,Yes,No,Yes,Yes
+Male,47,26,No,No,1,1,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Female,85,27,Yes,Yes,0,1,Yes,Black,No,1,Poor,5,Yes,Yes,Yes,Yes,Yes,Yes
+Female,69,30,No,No,1,1,Yes,White,Yes,1,Fair,7,Yes,No,Yes,No,Yes,No
+Male,47,26,No,No,0,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,39,28,No,No,1,1,No,Other,Yes,0,Good,6,No,No,No,No,No,No
+Female,48,23,No,No,1,3,No,Black,Yes,0,Very good,7,No,No,No,No,No,No
+Male,73,27,Yes,No,1,2,Yes,White,Yes,0,Good,6,No,No,No,No,Yes,No
+Female,63,32,No,No,0,1,No,Black,Yes,0,Good,6,No,No,No,Yes,No,No
+Female,65,35,No,No,1,3,No,White,No,0,Good,8,No,No,No,No,No,Yes
+Female,67,29,No,No,1,2,No,Black,Yes,1,Fair,8,Yes,No,Yes,No,No,No
+Male,39,26,Yes,No,1,1,Yes,White,No,1,Fair,6,Yes,No,Yes,No,Yes,No
+Male,43,27,No,No,1,1,No,White,No,0,Very good,8,No,No,No,No,No,No
+Female,58,42,No,No,0,1,Yes,White,No,0,Good,8,No,No,No,Yes,Yes,No
+Female,76,31,Yes,No,1,1,Yes,Black,Yes,1,Fair,6,Yes,Yes,Yes,No,Yes,No
+Female,42,22,No,No,0,1,No,Black,Yes,0,Good,5,No,No,No,No,No,No
+Female,29,37,No,No,0,1,No,White,Yes,0,Very good,8,No,No,No,Yes,No,No
+Male,53,26,Yes,No,0,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,74,39,No,No,1,1,No,Black,Yes,0,Good,6,No,No,No,No,No,No
+Male,51,28,No,No,1,1,No,White,No,0,Very good,10,No,No,No,No,No,No
+Female,50,24,No,No,0,1,No,Black,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,56,45,Yes,Yes,1,1,No,White,Yes,0,Very good,8,No,Yes,No,No,No,Yes
+Female,80,44,Yes,No,1,1,Yes,Black,Yes,1,Fair,5,Yes,Yes,Yes,No,Yes,No
+Male,56,32,Yes,No,1,1,No,White,No,0,Good,8,No,Yes,No,No,No,No
+Female,35,31,Yes,No,0,3,Yes,White,No,0,Good,10,No,Yes,No,Yes,Yes,Yes
+Female,78,28,Yes,No,1,1,No,White,No,1,Fair,9,Yes,No,Yes,No,No,No
+Female,78,26,No,No,1,1,No,Black,No,0,Good,7,No,No,No,No,No,No
+Female,83,28,No,No,0,2,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,82,28,No,No,1,1,No,White,Yes,1,Fair,8,Yes,No,Yes,No,No,No
+Female,61,31,Yes,No,1,1,No,Black,Yes,1,Fair,8,Yes,Yes,Yes,No,No,No
+Female,36,21,Yes,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,43,31,No,No,0,1,No,White,Yes,0,Very good,8,No,No,No,Yes,No,No
+Female,53,37,No,No,1,1,Yes,White,No,0,Good,6,No,No,No,No,Yes,No
+Male,60,28,No,No,0,2,No,Black,No,0,Excellent,7,No,No,No,No,No,No
+Female,34,25,No,No,1,2,No,White,No,0,Very good,8,No,No,No,No,No,No
+Male,57,27,Yes,No,1,3,Yes,White,No,0,Good,10,No,No,No,No,Yes,Yes
+Female,69,29,Yes,No,1,1,Yes,Black,No,1,Fair,6,Yes,No,Yes,No,Yes,No
+Female,21,38,No,No,1,1,No,White,No,0,Good,8,No,No,No,No,No,No
+Male,62,27,No,No,0,1,No,White,Yes,0,Very good,9,No,No,No,No,No,No
+Male,65,29,Yes,No,1,1,Yes,White,No,1,Fair,8,Yes,No,Yes,No,Yes,No
+Male,42,21,No,No,0,2,Yes,White,Yes,0,Good,10,No,No,No,No,Yes,No
+Female,67,33,No,No,0,2,Yes,White,Yes,0,Excellent,6,No,No,No,Yes,Yes,No
+Female,70,35,No,No,0,1,No,White,Yes,0,Excellent,7,No,No,No,Yes,No,No
+Female,46,36,Yes,No,1,1,Yes,White,No,1,Fair,8,Yes,Yes,Yes,No,Yes,No
+Female,80,33,Yes,No,0,1,No,White,No,0,Very good,7,No,Yes,No,Yes,No,No
+Female,79,35,Yes,No,1,2,No,Black,No,0,Good,4,No,Yes,No,No,No,No
+Female,68,34,No,No,0,3,Yes,Black,Yes,1,Fair,7,Yes,No,Yes,Yes,Yes,Yes
+Male,62,30,Yes,No,1,1,No,White,Yes,0,Excellent,8,No,Yes,No,No,No,No
+Male,35,37,Yes,No,0,1,No,White,Yes,0,Good,7,No,Yes,No,Yes,No,No
+Female,47,38,No,No,0,1,No,White,No,0,Very good,8,No,No,No,Yes,No,No
+Female,83,37,No,No,0,1,No,Other,Yes,0,Good,8,No,No,No,Yes,No,No
+Female,47,32,Yes,No,1,1,No,Black,Yes,0,Good,9,No,Yes,No,No,No,No
+Female,27,31,Yes,No,0,2,Yes,White,No,0,Good,8,No,Yes,No,Yes,Yes,No
+Male,53,28,Yes,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,60,28,Yes,No,1,1,No,White,No,0,Very good,8,No,No,No,No,No,No
+Female,51,22,No,No,0,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,65,40,No,No,1,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,33,23,Yes,No,1,1,Yes,White,No,0,Good,8,No,No,No,No,Yes,No
+Female,30,37,Yes,No,0,1,No,Black,Yes,0,Very good,7,No,Yes,No,Yes,No,No
+Female,38,33,Yes,No,1,1,Yes,White,Yes,1,Fair,7,Yes,Yes,Yes,No,Yes,No
+Female,52,32,Yes,Yes,1,1,No,White,Yes,0,Poor,8,No,Yes,Yes,No,No,Yes
+Female,72,34,No,No,1,1,Yes,White,No,0,Good,8,No,No,No,No,Yes,No
+Female,63,43,No,No,1,1,Yes,White,No,0,Good,7,No,No,No,No,Yes,No
+Male,33,24,Yes,Yes,0,1,No,White,No,1,Poor,6,Yes,Yes,Yes,Yes,No,Yes
+Female,28,26,Yes,No,0,1,Yes,Black,No,0,Very good,8,No,No,No,No,Yes,No
+Female,31,32,Yes,No,1,1,No,Black,No,1,Fair,7,Yes,Yes,Yes,No,No,No
+Male,67,26,Yes,No,0,1,No,White,No,1,Fair,6,Yes,No,Yes,Yes,No,No
+Female,40,32,Yes,No,0,2,Yes,White,Yes,1,Fair,5,Yes,Yes,Yes,Yes,Yes,No
+Female,74,33,No,No,0,1,Yes,Black,No,1,Fair,6,Yes,No,Yes,Yes,Yes,No
+Female,50,40,No,No,1,3,No,White,Yes,0,Good,7,No,No,No,No,No,Yes
+Female,41,26,No,No,1,1,No,White,No,0,Very good,6,No,No,No,No,No,No
+Male,71,20,Yes,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,20,21,No,No,0,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Male,81,26,No,No,0,3,No,White,Yes,0,Very good,8,No,No,No,No,No,Yes
+Female,26,21,Yes,No,1,1,Yes,White,Yes,1,Fair,6,Yes,No,Yes,No,Yes,No
+Female,31,40,Yes,No,1,1,Yes,Black,No,1,Fair,6,Yes,Yes,Yes,No,Yes,No
+Male,43,34,Yes,No,0,3,No,Black,No,0,Very good,8,No,Yes,No,Yes,No,Yes
+Female,79,34,No,No,0,3,No,Black,No,0,Good,7,No,No,No,Yes,No,Yes
+Male,40,20,Yes,No,1,1,No,Black,Yes,0,Very good,6,No,No,No,No,No,No
+Female,28,31,Yes,No,0,1,Yes,White,No,1,Fair,8,Yes,Yes,Yes,Yes,Yes,No
+Female,58,31,Yes,Yes,0,1,No,White,Yes,0,Good,8,No,Yes,Yes,Yes,No,Yes
+Female,81,26,No,No,0,2,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,60,33,No,No,1,1,Yes,White,Yes,0,Very good,8,No,No,No,No,Yes,No
+Male,75,21,No,No,0,2,No,Black,No,0,Very good,6,No,No,No,No,No,No
+Female,62,26,No,No,1,1,No,Black,Yes,1,Fair,8,Yes,No,Yes,No,No,No
+Female,70,32,No,No,1,2,No,Black,Yes,1,Fair,7,Yes,No,Yes,No,No,No
+Female,78,44,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,41,31,No,No,1,1,Yes,Black,Yes,1,Fair,4,Yes,No,Yes,No,Yes,No
+Female,51,20,No,No,1,1,No,Black,Yes,1,Fair,7,Yes,No,Yes,No,No,No
+Female,61,39,Yes,No,1,1,Yes,Black,Yes,0,Good,6,No,Yes,No,No,Yes,No
+Female,26,24,Yes,No,1,3,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Male,27,26,Yes,No,1,1,No,White,Yes,1,Fair,7,Yes,No,Yes,No,No,No
+Female,67,37,No,No,1,1,Yes,Black,No,1,Fair,10,Yes,No,Yes,No,Yes,No
+Male,20,22,Yes,No,1,1,No,White,Yes,1,Fair,8,Yes,No,Yes,No,No,No
+Female,37,25,Yes,No,1,1,Yes,White,Yes,1,Fair,6,Yes,No,Yes,No,Yes,No
+Female,64,25,No,No,1,2,No,Black,Yes,0,Very good,7,No,No,No,No,No,No
+Female,75,26,No,No,1,1,Yes,White,Yes,0,Good,9,No,No,No,No,Yes,No
+Female,43,25,No,No,0,1,Yes,American Indian/Alaskan Native,Yes,0,Good,5,No,No,No,No,Yes,No
+Female,72,29,No,No,1,1,No,White,Yes,0,Good,4,No,No,No,No,No,No
+Female,77,31,No,No,0,1,No,White,No,0,Good,8,No,No,No,Yes,No,No
+Female,81,31,No,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Male,20,32,Yes,No,1,1,Yes,White,No,1,Fair,10,Yes,Yes,Yes,No,Yes,No
+Male,66,25,Yes,No,0,3,No,White,Yes,0,Very good,7,No,No,No,No,No,Yes
+Female,39,25,No,No,0,1,No,Black,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,24,18,No,No,1,1,No,Black,Yes,0,Good,10,No,No,No,No,No,No
+Female,48,36,Yes,No,0,1,No,White,Yes,0,Very good,8,No,Yes,No,Yes,No,No
+Female,64,25,Yes,No,1,1,No,Black,Yes,0,Very good,6,No,No,No,No,No,No
+Female,58,24,No,Yes,0,1,No,White,No,1,Poor,9,Yes,No,Yes,Yes,No,Yes
+Female,73,41,No,No,0,3,Yes,Black,No,1,Fair,8,Yes,No,Yes,Yes,Yes,Yes
+Male,32,37,No,No,1,1,Yes,White,Yes,1,Fair,8,Yes,No,Yes,No,Yes,No
+Male,74,32,Yes,No,1,1,No,White,No,0,Excellent,8,No,Yes,No,No,No,No
+Female,34,25,No,No,0,1,No,Black,Yes,1,Fair,6,Yes,No,Yes,Yes,No,No
+Female,76,22,No,No,0,3,No,White,Yes,0,Very good,8,No,No,No,No,No,Yes
+Female,74,36,No,No,0,2,Yes,Black,Yes,0,Good,9,No,No,No,Yes,Yes,No
+Male,48,24,Yes,No,0,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Male,82,25,No,No,0,1,No,Other,Yes,0,Good,6,No,No,No,No,No,No
+Female,84,25,Yes,No,0,1,No,Black,Yes,1,Fair,8,Yes,No,Yes,Yes,No,No
+Male,28,43,Yes,No,0,2,No,White,Yes,0,Very good,8,No,Yes,No,Yes,No,No
+Female,70,24,No,No,0,1,No,Black,Yes,0,Very good,6,No,No,No,No,No,No
+Female,34,25,No,No,0,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Male,74,30,No,No,0,1,No,Black,Yes,0,Good,6,No,No,No,No,No,No
+Male,34,32,No,No,1,3,Yes,Asian,No,1,Fair,5,Yes,No,Yes,No,Yes,Yes
+Female,40,28,Yes,No,0,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,48,27,No,No,1,2,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,47,26,Yes,No,0,2,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,52,31,Yes,No,1,1,No,White,Yes,0,Very good,9,No,Yes,No,No,No,No
+Female,73,28,Yes,No,0,3,No,American Indian/Alaskan Native,Yes,0,Very good,4,No,Yes,No,No,No,Yes
+Female,74,21,Yes,Yes,1,1,No,White,Yes,0,Very good,8,No,Yes,No,No,No,Yes
+Female,53,27,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,52,24,No,No,1,1,No,Black,Yes,0,Good,4,No,No,No,No,No,No
+Male,47,28,Yes,No,1,2,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Male,54,32,Yes,No,1,1,No,White,No,1,Fair,8,Yes,Yes,Yes,No,No,No
+Female,46,26,No,No,1,1,No,White,No,0,Excellent,8,No,No,No,No,No,No
+Female,80,27,No,No,0,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,43,24,No,No,1,1,Yes,Black,Yes,0,Excellent,8,No,No,No,No,Yes,No
+Female,45,31,No,No,1,2,No,White,No,0,Excellent,12,No,No,No,No,No,No
+Female,33,27,No,No,0,1,No,White,No,1,Fair,8,Yes,No,Yes,Yes,No,No
+Female,47,42,No,No,1,1,No,White,No,0,Good,6,No,No,No,No,No,No
+Male,65,48,No,No,1,1,No,White,Yes,0,Good,4,No,No,No,No,No,No
+Female,71,28,No,No,0,1,Yes,White,Yes,1,Fair,8,Yes,No,Yes,Yes,Yes,No
+Female,39,29,No,No,1,1,No,White,Yes,0,Excellent,10,No,No,No,No,No,No
+Male,64,29,Yes,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,51,37,No,No,0,1,No,Black,No,0,Good,7,No,No,No,Yes,No,No
+Female,77,24,Yes,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,22,49,Yes,No,0,1,No,White,Yes,0,Very good,7,No,Yes,No,Yes,No,No
+Male,29,31,No,No,0,2,No,White,Yes,0,Very good,6,No,No,No,Yes,No,No
+Female,84,32,Yes,No,0,1,Yes,White,No,1,Fair,5,Yes,Yes,Yes,Yes,Yes,No
+Male,40,33,No,No,0,1,No,White,Yes,0,Very good,8,No,No,No,Yes,No,No
+Female,69,26,Yes,No,0,1,No,Other,No,0,Very good,8,No,No,No,No,No,No
+Female,45,37,Yes,No,1,1,No,Asian,Yes,0,Excellent,7,No,Yes,No,No,No,No
+Male,83,28,Yes,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,36,18,No,No,1,1,No,White,No,0,Excellent,8,No,No,No,No,No,No
+Female,83,27,Yes,No,1,1,No,White,Yes,0,Very good,5,No,Yes,No,No,No,No
+Female,47,37,No,No,0,1,No,White,Yes,0,Good,8,No,No,No,Yes,No,No
+Female,42,27,No,Yes,1,3,Yes,White,No,1,Poor,7,Yes,No,Yes,No,Yes,Yes
+Male,49,25,No,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Male,48,31,No,No,1,1,No,American Indian/Alaskan Native,Yes,0,Very good,6,No,No,No,No,No,No
+Male,50,29,Yes,No,1,1,No,Black,Yes,1,Fair,5,Yes,Yes,Yes,No,No,No
+Male,27,34,Yes,No,0,1,No,White,Yes,0,Good,8,No,Yes,No,Yes,No,No
+Female,24,27,No,Yes,0,1,Yes,White,No,1,Poor,8,Yes,No,Yes,Yes,Yes,Yes
+Male,71,32,No,No,0,1,No,White,Yes,0,Good,5,No,No,No,Yes,No,No
+Male,55,49,No,No,1,3,No,White,Yes,0,Good,7,No,No,No,No,No,Yes
+Female,64,27,No,No,0,1,No,Black,Yes,0,Very good,7,No,No,No,No,No,No
+Male,62,25,Yes,No,1,2,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,30,20,Yes,No,0,1,No,White,No,0,Very good,8,No,No,No,No,No,No
+Male,84,25,No,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,63,35,No,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,34,26,No,No,0,2,No,White,No,0,Very good,6,No,No,No,No,No,No
+Male,60,29,No,No,0,1,Yes,White,No,1,Fair,6,Yes,No,Yes,Yes,Yes,No
+Female,22,39,No,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,70,26,Yes,Yes,0,1,No,White,Yes,0,Good,8,No,No,Yes,No,No,No
+Male,46,37,No,Yes,0,1,No,White,Yes,0,Poor,6,No,No,Yes,Yes,No,Yes
+Female,60,25,Yes,No,0,3,No,White,Yes,0,Very good,10,No,No,No,No,No,Yes
+Female,42,45,No,No,1,1,No,White,Yes,0,Very good,5,No,No,No,No,No,No
+Female,48,37,No,No,0,1,No,White,Yes,0,Very good,6,No,No,No,Yes,No,No
+Female,82,34,Yes,No,1,1,No,Black,Yes,0,Good,6,No,Yes,No,No,No,No
+Male,25,23,Yes,No,1,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Female,43,21,Yes,No,1,3,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,70,32,No,No,1,1,No,White,No,1,Fair,7,Yes,No,Yes,No,No,No
+Female,54,31,No,No,0,2,No,White,Yes,0,Very good,6,No,No,No,Yes,No,No
+Female,58,36,No,No,1,1,No,Black,No,1,Fair,6,Yes,No,Yes,No,No,No
+Male,75,22,No,No,1,1,Yes,Black,No,1,Fair,7,Yes,No,Yes,No,Yes,No
+Male,52,38,No,No,0,1,Yes,White,No,1,Fair,6,Yes,No,Yes,Yes,Yes,No
+Female,47,24,No,No,1,1,No,White,Yes,0,Good,10,No,No,No,No,No,No
+Female,51,40,Yes,No,0,1,No,White,Yes,0,Very good,9,No,Yes,No,Yes,No,No
+Male,48,37,Yes,No,0,1,No,Black,No,1,Fair,6,Yes,Yes,Yes,Yes,No,No
+Female,78,35,No,No,0,1,No,Black,No,0,Good,6,No,No,No,Yes,No,No
+Female,85,24,No,No,0,3,No,White,Yes,1,Fair,5,Yes,No,Yes,Yes,No,Yes
+Female,51,26,Yes,No,1,1,No,White,Yes,0,Good,5,No,Yes,No,No,No,No
+Female,52,24,No,No,1,1,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Male,66,29,Yes,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Male,58,20,Yes,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Male,23,24,No,No,0,1,No,White,No,0,Good,14,No,No,No,No,No,No
+Female,28,25,Yes,No,1,1,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Female,50,30,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,75,22,No,No,0,2,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Female,41,30,Yes,No,1,3,Yes,White,No,1,Fair,8,Yes,Yes,Yes,No,Yes,Yes
+Male,25,26,Yes,Yes,1,1,Yes,White,No,0,Poor,9,No,No,Yes,No,Yes,Yes
+Female,26,25,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,38,22,Yes,No,1,1,No,White,No,0,Good,6,No,No,No,No,No,No
+Male,55,25,Yes,No,1,1,Yes,Hispanic,No,1,Fair,7,Yes,No,Yes,No,Yes,No
+Female,42,39,Yes,No,1,2,Yes,White,No,1,Fair,16,Yes,Yes,Yes,No,Yes,No
+Male,70,35,Yes,No,1,1,No,White,Yes,0,Very good,6,No,Yes,No,No,No,No
+Male,66,26,No,No,1,1,No,Black,Yes,0,Good,6,No,No,No,No,No,No
+Female,22,23,No,Yes,1,2,No,White,Yes,1,Poor,8,Yes,No,Yes,No,No,Yes
+Female,27,19,Yes,Yes,0,1,Yes,White,No,1,Poor,8,Yes,Yes,Yes,Yes,Yes,Yes
+Male,21,27,No,No,1,1,No,Hispanic,Yes,0,Excellent,6,No,No,No,No,No,No
+Male,71,23,No,No,0,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,26,29,No,No,1,3,No,White,Yes,0,Good,6,No,No,No,No,No,Yes
+Female,47,26,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,26,38,Yes,No,1,1,No,White,Yes,0,Good,6,No,Yes,No,No,No,No
+Female,50,19,No,No,1,3,Yes,White,No,0,Good,8,No,No,No,No,Yes,No
+Male,75,28,Yes,No,1,3,No,White,Yes,0,Very good,7,No,No,No,No,No,Yes
+Male,43,17,Yes,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Male,56,24,No,No,1,1,No,White,No,0,Very good,6,No,No,No,No,No,No
+Male,64,21,Yes,No,1,1,Yes,White,Yes,1,Fair,8,Yes,No,Yes,No,Yes,No
+Male,60,30,Yes,No,0,1,No,White,Yes,0,Good,7,No,Yes,No,No,No,No
+Male,40,43,Yes,No,1,2,No,Black,No,0,Excellent,8,No,Yes,No,No,No,No
+Female,47,35,No,No,1,2,Yes,White,No,0,Good,8,No,No,No,No,Yes,No
+Male,77,35,Yes,No,0,1,Yes,White,Yes,0,Very good,7,No,Yes,No,Yes,Yes,No
+Female,57,30,No,No,0,2,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Male,76,32,No,No,1,1,No,White,No,0,Excellent,6,No,No,No,No,No,No
+Female,77,33,No,No,1,1,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Female,79,28,No,No,0,2,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,81,32,No,Yes,1,3,Yes,White,Yes,1,Poor,7,Yes,No,Yes,No,Yes,Yes
+Male,78,30,No,Yes,0,1,Yes,White,Yes,1,Poor,8,Yes,No,Yes,Yes,Yes,Yes
+Female,45,27,No,No,0,1,No,Black,No,0,Good,7,No,No,No,No,No,No
+Female,32,27,Yes,No,0,1,Yes,White,No,1,Fair,7,Yes,No,Yes,Yes,Yes,No
+Male,51,22,No,Yes,0,1,Yes,Black,No,1,Poor,7,Yes,No,Yes,Yes,Yes,Yes
+Male,33,30,No,No,1,1,No,Other,Yes,0,Good,8,No,No,No,No,No,No
+Female,31,27,No,Yes,1,3,Yes,Black,No,0,Poor,12,No,No,Yes,No,Yes,Yes
+Male,59,23,Yes,No,0,1,No,Black,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,50,25,No,No,0,1,No,Black,No,0,Good,6,No,No,No,No,No,No
+Male,33,27,Yes,No,0,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,20,29,Yes,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Male,58,37,No,No,0,1,No,White,Yes,0,Good,6,No,No,No,Yes,No,No
+Female,63,28,No,Yes,0,1,Yes,Black,No,0,Poor,8,No,No,Yes,Yes,Yes,Yes
+Female,51,25,No,No,1,1,Yes,Black,Yes,0,Good,8,No,No,No,No,Yes,No
+Female,62,24,Yes,No,0,1,No,Hispanic,No,0,Very good,12,No,No,No,No,No,No
+Male,41,20,No,No,1,1,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Male,76,27,Yes,No,0,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Male,79,26,No,No,0,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,28,31,No,No,0,1,No,Black,Yes,1,Fair,6,Yes,No,Yes,Yes,No,No
+Female,52,57,No,No,0,1,No,White,Yes,0,Good,7,No,No,No,Yes,No,No
+Female,64,41,Yes,No,0,2,No,White,Yes,0,Very good,6,No,Yes,No,Yes,No,No
+Female,33,31,No,No,1,3,Yes,Black,No,1,Fair,6,Yes,No,Yes,No,Yes,Yes
+Female,40,32,Yes,Yes,0,1,Yes,White,No,0,Poor,3,No,Yes,Yes,Yes,Yes,Yes
+Female,23,26,Yes,No,0,1,Yes,White,No,1,Fair,6,Yes,No,Yes,Yes,Yes,No
+Female,41,22,Yes,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,25,27,No,No,1,1,No,Black,Yes,0,Good,6,No,No,No,No,No,No
+Female,38,24,Yes,No,0,2,No,Black,No,0,Very good,15,No,No,No,No,No,No
+Male,23,23,Yes,No,1,1,Yes,Black,No,0,Very good,8,No,No,No,No,Yes,No
+Female,23,36,No,No,1,2,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,47,30,No,No,0,2,No,Black,No,1,Fair,6,Yes,No,Yes,Yes,No,No
+Female,64,24,Yes,No,0,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,75,20,No,No,0,1,No,White,No,0,Very good,8,No,No,No,No,No,No
+Female,23,19,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,29,27,No,No,0,2,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Female,60,34,Yes,No,0,3,No,White,Yes,0,Excellent,8,No,Yes,No,Yes,No,Yes
+Female,62,37,No,No,1,1,No,Black,No,1,Fair,7,Yes,No,Yes,No,No,No
+Female,32,28,No,No,0,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,26,40,Yes,No,1,1,No,White,No,0,Good,5,No,Yes,No,No,No,No
+Female,76,30,No,No,0,2,No,White,Yes,1,Fair,7,Yes,No,Yes,Yes,No,No
+Male,72,36,No,No,1,2,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,59,23,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,58,24,No,No,1,2,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Male,53,21,No,No,1,1,No,Black,Yes,0,Excellent,6,No,No,No,No,No,No
+Female,43,31,No,No,1,1,No,Black,No,0,Excellent,8,No,No,No,No,No,No
+Female,54,20,Yes,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,36,31,Yes,No,0,1,Yes,White,Yes,1,Fair,6,Yes,Yes,Yes,Yes,Yes,No
+Female,21,21,Yes,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,29,30,No,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,58,28,No,No,0,3,No,White,Yes,0,Very good,7,No,No,No,No,No,Yes
+Female,70,20,No,No,0,1,No,Black,No,0,Excellent,8,No,No,No,No,No,No
+Female,34,34,No,No,0,3,No,White,Yes,0,Very good,7,No,No,No,Yes,No,Yes
+Female,60,33,Yes,No,0,1,No,Other,Yes,0,Very good,5,No,Yes,No,Yes,No,No
+Male,50,27,Yes,No,0,2,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,21,25,No,Yes,1,1,No,Black,Yes,1,Fair,6,Yes,No,Yes,No,No,Yes
+Female,75,25,Yes,No,1,1,Yes,White,Yes,0,Very good,4,No,Yes,No,No,Yes,No
+Female,60,33,No,No,1,3,No,Black,Yes,1,Fair,9,Yes,No,Yes,No,No,Yes
+Male,23,32,Yes,No,1,1,No,White,Yes,1,Fair,7,Yes,Yes,Yes,No,No,No
+Male,50,19,No,No,0,1,No,Black,Yes,0,Very good,6,No,No,No,No,No,No
+Female,32,44,Yes,Yes,0,2,No,White,Yes,0,Very good,7,No,Yes,Yes,Yes,No,Yes
+Male,81,37,Yes,No,1,1,No,White,Yes,0,Very good,7,No,Yes,No,No,No,No
+Male,75,28,Yes,No,1,1,Yes,White,No,1,Fair,5,Yes,Yes,Yes,No,Yes,No
+Male,40,29,Yes,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,30,28,Yes,No,1,2,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Male,44,27,No,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,59,41,Yes,No,1,2,No,White,Yes,0,Excellent,9,No,Yes,No,No,No,No
+Male,70,20,No,No,1,1,No,White,No,0,Excellent,8,No,No,No,No,No,No
+Female,78,27,No,No,1,3,No,White,Yes,0,Good,7,No,No,No,No,No,Yes
+Male,24,33,Yes,No,1,1,No,Black,Yes,0,Good,8,No,Yes,No,No,No,No
+Male,64,26,No,No,1,1,No,Black,Yes,1,Fair,8,Yes,No,Yes,No,No,No
+Female,51,26,Yes,No,1,3,Yes,White,Yes,0,Good,9,No,No,No,No,Yes,Yes
+Female,59,28,Yes,No,1,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,55,24,No,No,1,1,No,White,No,0,Excellent,8,No,No,No,No,No,No
+Male,66,29,Yes,No,1,1,No,White,Yes,1,Fair,7,Yes,No,Yes,No,No,No
+Male,64,33,Yes,No,1,3,No,White,Yes,0,Very good,8,No,Yes,No,No,No,Yes
+Female,83,20,Yes,Yes,0,1,Yes,Black,No,1,Poor,6,Yes,Yes,Yes,Yes,Yes,Yes
+Male,77,24,Yes,Yes,0,1,No,Black,Yes,0,Very good,8,No,Yes,Yes,No,No,Yes
+Female,23,24,Yes,No,0,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,81,25,Yes,No,1,1,Yes,Black,No,0,Excellent,3,No,Yes,No,No,Yes,No
+Male,73,30,No,No,1,1,Yes,Black,Yes,1,Fair,8,Yes,No,Yes,No,Yes,No
+Female,27,29,No,No,0,1,No,White,No,1,Fair,6,Yes,No,Yes,Yes,No,No
+Female,49,25,Yes,Yes,1,2,No,White,Yes,0,Good,6,No,Yes,No,No,No,No
+Male,29,22,Yes,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,82,36,Yes,Yes,0,1,No,White,Yes,0,Excellent,8,No,Yes,Yes,Yes,No,Yes
+Female,27,23,Yes,No,1,1,Yes,Black,Yes,1,Fair,8,Yes,No,Yes,No,Yes,No
+Female,36,26,No,No,0,3,No,White,No,0,Good,4,No,No,No,No,No,Yes
+Male,37,34,No,No,0,1,No,White,Yes,0,Very good,8,No,No,No,Yes,No,No
+Female,36,35,Yes,No,0,1,No,White,Yes,0,Excellent,8,No,Yes,No,Yes,No,No
+Male,39,32,No,Yes,1,3,No,Black,Yes,0,Poor,7,No,No,Yes,No,No,Yes
+Female,83,28,Yes,No,0,3,Yes,White,No,0,Good,8,No,No,No,No,Yes,Yes
+Female,65,28,No,No,1,1,No,Black,Yes,0,Very good,8,No,No,No,No,No,No
+Male,30,20,No,No,1,2,No,White,No,0,Very good,5,No,No,No,No,No,No
+Female,85,27,No,No,0,1,No,Black,Yes,0,Very good,7,No,No,No,No,No,No
+Male,34,25,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,57,21,No,No,0,1,No,White,No,0,Very good,8,No,No,No,No,No,No
+Female,25,22,No,No,1,3,No,White,Yes,0,Very good,14,No,No,No,No,No,No
+Male,66,27,Yes,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Male,41,32,Yes,No,1,1,No,White,Yes,0,Excellent,8,No,Yes,No,No,No,No
+Male,21,32,Yes,Yes,1,1,No,Black,No,1,Fair,7,Yes,Yes,Yes,No,No,Yes
+Female,29,27,Yes,No,1,1,No,White,No,0,Very good,7,No,No,No,No,No,No
+Female,54,33,No,No,1,1,Yes,Black,No,1,Fair,9,Yes,No,Yes,No,Yes,No
+Male,72,21,Yes,No,1,1,No,White,No,0,Very good,7,No,No,No,No,No,No
+Male,23,30,Yes,Yes,0,1,No,White,No,1,Fair,6,Yes,Yes,Yes,Yes,No,Yes
+Male,32,31,No,No,0,1,No,Black,Yes,0,Excellent,9,No,No,No,Yes,No,No
+Female,71,30,No,No,0,3,No,White,No,0,Very good,6,No,No,No,No,No,Yes
+Female,65,23,No,No,1,3,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,65,28,No,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,54,31,No,No,0,1,No,Black,Yes,0,Very good,6,No,No,No,Yes,No,No
+Male,71,27,Yes,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,28,28,No,No,0,1,No,Black,No,0,Good,8,No,No,No,No,No,No
+Female,45,24,No,No,1,1,Yes,White,No,0,Good,6,No,No,No,No,Yes,No
+Male,38,33,Yes,No,1,1,No,Black,No,0,Very good,6,No,Yes,No,No,No,No
+Male,35,27,Yes,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Male,73,35,Yes,No,0,1,No,White,Yes,0,Very good,6,No,Yes,No,Yes,No,No
+Male,68,26,No,No,1,1,No,Black,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,30,19,No,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Male,79,27,No,Yes,1,1,Yes,Black,Yes,1,Poor,4,Yes,No,Yes,No,Yes,Yes
+Female,53,28,Yes,No,1,1,No,White,No,0,Good,5,No,Yes,No,No,No,No
+Female,28,31,No,No,0,1,Yes,White,No,1,Fair,8,Yes,No,Yes,Yes,Yes,No
+Male,46,26,No,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,75,29,Yes,No,1,1,No,White,Yes,1,Fair,8,Yes,No,Yes,No,No,No
+Female,38,27,No,No,0,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Male,68,31,Yes,Yes,0,1,Yes,American Indian/Alaskan Native,No,1,Poor,5,Yes,Yes,Yes,Yes,Yes,Yes
+Female,65,31,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,Yes,No,No
+Male,54,26,Yes,No,1,1,No,Other,Yes,1,Fair,5,Yes,Yes,Yes,No,No,No
+Female,31,30,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,84,29,No,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,27,27,No,No,0,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,54,28,Yes,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Male,44,35,No,No,1,1,No,White,Yes,0,Good,5,No,No,No,No,No,No
+Female,66,20,Yes,No,1,3,No,White,No,0,Good,6,No,No,No,No,No,Yes
+Male,74,26,Yes,No,1,1,Yes,Black,Yes,1,Fair,8,Yes,No,Yes,No,Yes,No
+Male,71,28,No,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,44,32,Yes,No,1,1,No,White,Yes,1,Fair,9,Yes,Yes,Yes,No,No,No
+Female,80,35,No,No,1,1,No,Black,Yes,0,Very good,7,No,No,No,No,No,No
+Male,61,33,Yes,No,0,1,No,White,Yes,0,Good,7,No,Yes,No,Yes,No,No
+Female,39,30,Yes,No,1,1,No,Black,Yes,0,Excellent,6,No,Yes,No,No,No,No
+Male,44,26,Yes,No,0,1,No,Black,Yes,0,Good,6,No,No,No,No,No,No
+Female,52,46,No,No,0,1,No,Black,No,0,Good,7,No,No,No,Yes,No,No
+Male,40,25,No,No,1,3,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Female,45,28,No,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Male,48,35,Yes,No,0,1,No,White,Yes,0,Good,6,No,Yes,No,Yes,No,No
+Male,81,29,Yes,No,0,3,No,White,Yes,0,Very good,8,No,No,No,No,No,Yes
+Female,81,23,Yes,No,1,1,No,White,No,0,Very good,8,No,No,No,No,No,No
+Male,22,24,No,No,0,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,76,34,Yes,No,1,1,No,Hispanic,Yes,0,Good,6,No,Yes,No,No,No,No
+Female,53,33,No,No,1,1,Yes,Black,Yes,1,Fair,4,Yes,No,Yes,No,Yes,No
+Male,85,39,Yes,No,0,3,No,White,Yes,0,Good,12,No,Yes,No,Yes,No,Yes
+Male,66,34,Yes,No,1,3,Yes,Asian,Yes,1,Fair,6,Yes,Yes,Yes,No,Yes,Yes
+Male,85,32,Yes,No,1,1,No,Black,No,1,Fair,8,Yes,Yes,Yes,No,No,No
+Male,62,32,No,No,0,1,No,White,Yes,1,Fair,6,Yes,No,Yes,Yes,No,No
+Female,71,27,Yes,No,0,2,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,77,30,No,No,1,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Male,49,44,Yes,No,1,1,No,White,Yes,0,Good,7,No,Yes,No,No,No,No
+Female,21,33,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,46,22,No,No,0,1,No,White,No,0,Good,5,No,No,No,No,No,No
+Male,57,35,Yes,Yes,0,3,No,Black,No,0,Poor,7,No,Yes,Yes,Yes,No,Yes
+Male,35,31,No,No,1,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,36,28,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,37,27,Yes,Yes,1,1,No,White,No,0,Very good,6,No,No,No,No,No,No
+Female,24,22,No,No,1,1,No,Black,Yes,0,Excellent,6,No,No,No,No,No,No
+Female,43,27,No,No,1,3,No,White,Yes,0,Very good,8,No,No,No,No,No,Yes
+Male,78,23,No,No,1,1,No,Black,No,0,Very good,8,No,No,No,No,No,No
+Male,61,25,Yes,No,0,1,No,White,No,0,Excellent,8,No,No,No,No,No,No
+Male,64,31,No,Yes,0,1,No,White,Yes,0,Good,6,No,No,Yes,Yes,No,Yes
+Male,85,41,No,No,0,1,Yes,White,No,0,Very good,7,No,No,No,Yes,Yes,No
+Female,20,25,Yes,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,20,40,No,No,0,1,No,Black,Yes,0,Good,8,No,No,No,Yes,No,No
+Female,59,19,Yes,No,0,1,No,White,No,1,Fair,6,Yes,No,Yes,Yes,No,No
+Female,63,19,No,No,1,1,Yes,Black,Yes,0,Good,7,No,No,No,No,Yes,No
+Male,83,41,No,No,1,3,No,White,Yes,0,Excellent,7,No,No,No,No,No,Yes
+Female,39,26,No,No,0,1,No,Black,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,81,42,Yes,No,1,1,No,White,Yes,0,Good,7,No,Yes,No,No,No,No
+Female,44,38,No,No,1,2,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,73,20,Yes,No,1,1,No,White,No,0,Good,6,No,No,No,No,No,No
+Female,77,30,Yes,No,1,1,No,White,Yes,0,Good,7,No,Yes,No,No,No,No
+Female,37,21,Yes,No,0,2,No,Black,Yes,0,Very good,6,No,No,No,No,No,No
+Male,38,27,No,No,1,1,Yes,White,No,0,Very good,9,No,No,No,No,Yes,No
+Female,41,28,No,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Male,65,26,No,No,0,3,No,White,Yes,0,Good,5,No,No,No,No,No,Yes
+Female,81,30,No,No,0,1,Yes,Black,No,0,Good,8,No,No,No,No,Yes,No
+Female,74,29,Yes,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,53,26,Yes,Yes,0,2,No,White,No,0,Very good,7,No,No,Yes,No,No,No
+Female,68,27,No,No,0,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,25,29,No,No,0,3,No,White,Yes,0,Excellent,6,No,No,No,No,No,Yes
+Male,80,27,No,No,0,1,No,White,No,0,Good,6,No,No,No,No,No,No
+Male,32,21,No,Yes,1,1,Yes,Black,No,1,Poor,5,Yes,No,Yes,No,Yes,Yes
+Male,57,22,Yes,Yes,1,2,Yes,White,No,0,Poor,4,No,Yes,Yes,No,Yes,Yes
+Male,71,29,Yes,Yes,0,2,No,White,Yes,1,Poor,6,Yes,No,Yes,Yes,No,Yes
+Female,69,25,No,No,0,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,44,23,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,41,24,No,No,0,1,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Female,59,19,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,27,44,No,No,1,1,No,Black,No,0,Good,18,No,No,No,No,No,No
+Female,37,28,No,No,0,1,No,White,No,0,Very good,6,No,No,No,No,No,No
+Female,36,41,Yes,No,0,1,No,White,Yes,0,Very good,8,No,Yes,No,Yes,No,No
+Female,68,28,Yes,No,1,3,No,White,No,0,Excellent,10,No,No,No,No,No,Yes
+Female,57,50,Yes,No,1,2,Yes,White,No,1,Fair,8,Yes,Yes,Yes,No,Yes,No
+Female,59,16,Yes,No,1,1,No,White,No,1,Fair,7,Yes,No,Yes,No,No,No
+Male,50,24,No,Yes,0,1,No,White,No,0,Very good,8,No,No,Yes,No,No,No
+Female,40,26,No,No,0,1,Yes,Hispanic,No,0,Good,6,No,No,No,No,Yes,No
+Male,50,24,Yes,No,1,3,Yes,White,Yes,1,Fair,6,Yes,No,Yes,No,Yes,Yes
+Female,75,33,No,No,1,1,No,White,Yes,0,Very good,5,No,No,No,No,No,No
+Male,44,31,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,44,30,Yes,No,0,1,No,White,No,1,Fair,6,Yes,Yes,Yes,Yes,No,No
+Male,62,28,No,Yes,0,3,No,White,No,0,Excellent,6,No,No,Yes,No,No,Yes
+Male,74,31,Yes,No,1,3,No,White,Yes,0,Very good,8,No,Yes,No,No,No,Yes
+Female,20,32,No,No,1,3,No,White,Yes,0,Good,6,No,No,No,No,No,Yes
+Male,32,31,Yes,Yes,0,3,No,White,No,0,Good,6,No,Yes,Yes,Yes,No,Yes
+Male,46,31,Yes,No,0,1,No,White,Yes,0,Good,7,No,Yes,No,Yes,No,No
+Female,61,40,Yes,No,0,3,No,White,No,0,Good,7,No,Yes,No,Yes,No,Yes
+Female,81,26,No,No,1,2,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,47,30,Yes,No,1,1,No,White,Yes,0,Very good,4,No,Yes,No,No,No,No
+Male,43,23,Yes,No,0,1,Yes,White,Yes,1,Fair,5,Yes,Yes,Yes,Yes,Yes,No
+Male,69,33,Yes,No,1,1,Yes,White,No,1,Fair,8,Yes,Yes,Yes,No,Yes,No
+Female,51,28,Yes,No,1,1,Yes,White,No,0,Good,8,No,No,No,No,Yes,No
+Male,65,27,Yes,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,36,28,Yes,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Male,29,38,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Male,52,26,No,No,0,1,No,Black,Yes,0,Very good,3,No,No,No,No,No,No
+Female,37,31,Yes,No,0,1,No,White,No,0,Very good,9,No,Yes,No,Yes,No,No
+Female,56,26,Yes,No,0,1,No,White,No,0,Good,8,No,No,No,No,No,No
+Male,32,27,Yes,No,0,2,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Male,53,31,Yes,No,1,3,No,White,Yes,0,Good,7,No,Yes,No,No,No,Yes
+Male,57,39,No,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,51,34,No,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Male,27,33,Yes,No,0,1,Yes,Black,Yes,0,Very good,8,No,Yes,No,Yes,Yes,No
+Female,82,29,Yes,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Male,28,34,No,No,0,1,Yes,White,No,0,Good,4,No,No,No,Yes,Yes,No
+Male,79,24,Yes,No,0,2,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,82,27,Yes,Yes,1,2,Yes,White,No,1,Poor,6,Yes,No,Yes,No,Yes,Yes
+Female,67,21,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,27,28,No,No,0,1,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Female,56,27,No,No,0,1,No,Black,Yes,0,Excellent,6,No,No,No,No,No,No
+Female,49,34,No,No,0,2,No,White,Yes,0,Very good,7,No,No,No,Yes,No,No
+Male,67,26,No,Yes,0,1,No,Black,Yes,0,Excellent,6,No,No,Yes,No,No,No
+Female,32,23,No,No,0,1,No,Black,Yes,0,Very good,7,No,No,No,No,No,No
+Male,27,33,No,No,0,1,No,White,Yes,0,Good,7,No,No,No,Yes,No,No
+Female,43,39,Yes,No,0,1,No,White,Yes,0,Good,7,No,Yes,No,Yes,No,No
+Female,37,33,Yes,No,0,1,No,White,Yes,0,Very good,7,No,Yes,No,Yes,No,No
+Male,80,31,Yes,No,0,1,Yes,White,No,1,Fair,7,Yes,Yes,Yes,Yes,Yes,No
+Female,42,26,No,Yes,0,1,No,White,Yes,0,Poor,6,No,No,Yes,Yes,No,Yes
+Male,38,38,Yes,No,1,1,No,Black,No,0,Good,6,No,Yes,No,No,No,No
+Female,67,26,Yes,No,0,1,Yes,White,Yes,1,Fair,5,Yes,Yes,Yes,Yes,Yes,No
+Female,30,28,Yes,No,1,1,No,White,No,0,Very good,7,No,No,No,No,No,No
+Female,40,33,No,No,0,1,No,White,No,1,Fair,8,Yes,No,Yes,Yes,No,No
+Female,74,46,Yes,No,0,1,No,Black,Yes,0,Very good,12,No,Yes,No,Yes,No,No
+Female,31,29,Yes,No,0,3,No,White,No,0,Good,7,No,No,No,No,No,Yes
+Female,60,27,No,No,1,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Female,79,23,No,No,1,1,No,White,Yes,0,Good,5,No,No,No,No,No,No
+Male,62,36,Yes,No,1,3,Yes,White,No,0,Good,5,No,Yes,No,No,Yes,Yes
+Female,44,29,No,No,0,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Male,77,32,Yes,No,0,1,No,White,Yes,0,Very good,6,No,Yes,No,Yes,No,No
+Male,74,28,Yes,No,1,2,No,Other,No,1,Fair,6,Yes,No,Yes,No,No,No
+Female,34,27,No,No,1,3,No,Other,No,0,Very good,7,No,No,No,No,No,Yes
+Male,35,24,Yes,No,1,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Male,58,28,Yes,No,0,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,26,20,No,No,0,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,32,27,No,No,0,2,No,Black,Yes,1,Fair,9,Yes,No,Yes,Yes,No,No
+Female,25,26,No,No,1,1,No,Black,Yes,0,Good,4,No,No,No,No,No,No
+Male,23,22,No,Yes,1,1,Yes,White,No,1,Poor,7,Yes,No,Yes,No,Yes,Yes
+Female,43,35,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Male,42,44,Yes,No,1,1,No,White,Yes,0,Good,6,No,Yes,No,No,No,No
+Female,79,32,Yes,No,1,1,No,White,Yes,0,Good,9,No,Yes,No,No,No,No
+Male,58,42,No,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,54,42,No,No,1,1,Yes,White,No,0,Good,7,No,No,No,No,Yes,No
+Female,20,23,Yes,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,25,45,No,No,1,2,No,Hispanic,No,0,Very good,8,No,No,No,No,No,No
+Female,29,32,No,No,1,1,No,Black,No,0,Good,6,No,No,No,No,No,No
+Male,34,27,No,No,1,3,No,White,Yes,0,Very good,7,No,No,No,No,No,Yes
+Male,70,36,Yes,No,1,2,Yes,White,Yes,0,Very good,6,No,Yes,No,No,Yes,No
+Male,39,44,Yes,No,0,1,No,Other,No,0,Good,6,No,Yes,No,Yes,No,No
+Female,69,42,No,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,80,31,No,No,0,1,No,Black,Yes,1,Fair,6,Yes,No,Yes,Yes,No,No
+Female,32,52,Yes,No,0,1,No,White,Yes,0,Excellent,7,No,Yes,No,Yes,No,No
+Female,55,42,No,No,1,2,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Male,22,22,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,79,28,Yes,No,1,1,Yes,Black,Yes,1,Fair,7,Yes,No,Yes,No,Yes,No
+Female,27,28,Yes,No,1,1,Yes,White,No,0,Good,6,No,No,No,No,Yes,No
+Female,84,23,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,70,28,No,Yes,0,2,Yes,White,Yes,0,Poor,4,No,No,Yes,Yes,Yes,Yes
+Female,63,25,No,Yes,1,1,Yes,White,No,1,Poor,7,Yes,No,Yes,No,Yes,Yes
+Male,32,30,Yes,No,1,1,No,White,No,1,Fair,7,Yes,Yes,Yes,No,No,No
+Female,59,33,Yes,No,0,1,No,White,No,0,Very good,5,No,Yes,No,Yes,No,No
+Female,81,31,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,44,20,No,No,1,3,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,74,27,No,No,1,3,Yes,Black,No,1,Fair,6,Yes,No,Yes,No,Yes,Yes
+Male,40,34,Yes,No,1,1,No,White,Yes,0,Good,9,No,Yes,No,No,No,No
+Female,20,34,Yes,No,0,3,No,White,No,0,Very good,5,No,Yes,No,Yes,No,Yes
+Female,51,52,Yes,No,0,2,No,Other,No,0,Good,9,No,Yes,No,Yes,No,No
+Male,40,28,Yes,No,0,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Male,44,31,Yes,No,0,1,No,White,Yes,0,Very good,5,No,Yes,No,Yes,No,No
+Male,23,35,Yes,No,1,3,No,White,Yes,0,Good,9,No,Yes,No,No,No,Yes
+Female,38,30,No,No,1,1,No,White,No,0,Good,5,No,No,No,No,No,No
+Female,27,35,Yes,No,0,2,No,White,Yes,0,Good,7,No,Yes,No,Yes,No,No
+Female,33,31,Yes,No,1,1,No,White,No,0,Good,6,No,Yes,No,No,No,No
+Female,27,36,Yes,No,1,1,No,White,No,0,Very good,8,No,Yes,No,No,No,No
+Male,22,25,Yes,No,0,2,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Male,44,26,No,No,0,1,No,Black,No,0,Good,7,No,No,No,No,No,No
+Male,49,31,Yes,No,1,1,Yes,Black,No,0,Good,5,No,Yes,No,No,Yes,No
+Female,38,38,Yes,No,1,1,No,Black,Yes,0,Very good,8,No,Yes,No,No,No,No
+Female,33,20,Yes,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,20,32,No,No,1,1,No,Black,Yes,0,Good,6,No,No,No,No,No,No
+Male,74,28,No,No,0,2,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Male,84,30,Yes,No,1,2,No,Black,Yes,0,Excellent,8,No,Yes,No,No,No,No
+Female,42,25,Yes,Yes,1,2,No,White,Yes,0,Very good,5,No,Yes,No,No,No,No
+Female,54,35,Yes,No,0,1,No,White,Yes,0,Good,6,No,Yes,No,Yes,No,No
+Female,54,26,Yes,Yes,1,3,No,Black,Yes,0,Good,12,No,No,No,No,No,Yes
+Female,47,33,No,No,1,1,No,White,No,0,Very good,8,No,No,No,No,No,No
+Female,22,21,No,No,1,3,No,Black,No,0,Very good,5,No,No,No,No,No,No
+Female,22,38,No,No,1,3,No,White,Yes,0,Very good,8,No,No,No,No,No,Yes
+Female,79,38,No,No,0,2,No,White,No,0,Very good,8,No,No,No,Yes,No,No
+Female,83,29,No,No,1,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,64,26,No,No,0,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Male,62,32,No,Yes,0,1,No,White,Yes,0,Good,8,No,No,Yes,Yes,No,Yes
+Male,20,26,Yes,No,1,1,Yes,Black,No,1,Fair,6,Yes,No,Yes,No,Yes,No
+Female,84,25,No,No,0,1,Yes,White,Yes,0,Very good,7,No,No,No,No,Yes,No
+Male,60,32,Yes,No,0,1,No,Black,Yes,1,Fair,7,Yes,Yes,Yes,Yes,No,No
+Male,50,27,No,No,0,1,No,Black,Yes,0,Very good,8,No,No,No,No,No,No
+Male,35,27,Yes,No,1,1,No,White,Yes,0,Excellent,5,No,Yes,No,No,No,No
+Male,60,29,No,No,1,1,No,White,Yes,0,Very good,5,No,No,No,No,No,No
+Male,26,25,Yes,No,0,2,Yes,American Indian/Alaskan Native,Yes,0,Good,5,No,Yes,No,No,Yes,No
+Male,26,28,Yes,No,0,3,No,White,Yes,0,Very good,4,No,Yes,No,No,No,Yes
+Female,46,37,Yes,Yes,1,1,Yes,White,No,0,Poor,8,No,Yes,Yes,No,Yes,Yes
+Female,48,23,No,No,1,3,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,73,22,No,No,1,2,Yes,White,Yes,0,Good,8,No,No,No,No,Yes,No
+Male,72,36,Yes,No,1,2,Yes,Black,No,1,Fair,6,Yes,Yes,Yes,No,Yes,No
+Female,77,21,Yes,No,0,1,No,Black,No,0,Excellent,8,No,No,No,No,No,No
+Female,49,30,Yes,No,1,3,No,White,Yes,0,Very good,6,No,Yes,No,No,No,Yes
+Male,24,28,No,No,0,1,No,Black,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,54,39,Yes,No,0,1,No,Black,Yes,1,Fair,8,Yes,Yes,Yes,Yes,No,No
+Male,33,31,No,No,1,1,No,Other,Yes,0,Very good,7,No,No,No,No,No,No
+Male,80,32,Yes,No,0,1,No,Black,No,1,Fair,8,Yes,Yes,Yes,Yes,No,No
+Male,56,21,No,No,1,2,No,Black,Yes,0,Very good,7,No,No,No,No,No,No
+Female,33,29,No,No,1,2,No,Black,Yes,0,Very good,6,No,No,No,No,No,No
+Female,63,29,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,63,24,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,62,23,No,No,1,2,No,White,No,0,Very good,6,No,No,No,No,No,No
+Female,79,30,Yes,No,0,1,No,White,Yes,1,Fair,8,Yes,Yes,Yes,Yes,No,No
+Male,27,23,Yes,No,1,1,Yes,American Indian/Alaskan Native,Yes,0,Good,6,No,No,No,No,Yes,No
+Female,80,31,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,Yes,No,No
+Female,23,28,No,No,0,1,No,Black,Yes,0,Very good,9,No,No,No,No,No,No
+Female,47,23,No,No,1,3,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,22,33,No,No,0,1,No,White,Yes,0,Very good,10,No,No,No,Yes,No,No
+Female,66,29,No,No,0,1,No,White,Yes,1,Fair,8,Yes,No,Yes,Yes,No,No
+Female,64,32,No,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Male,56,25,Yes,No,0,1,No,Black,Yes,0,Excellent,12,No,No,No,No,No,No
+Male,31,28,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,37,27,Yes,No,0,1,No,White,Yes,0,Good,10,No,No,No,No,No,No
+Female,22,22,No,No,1,1,Yes,White,Yes,0,Good,7,No,No,No,No,Yes,No
+Female,46,20,No,No,1,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Male,48,26,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,48,34,No,No,1,1,No,Black,Yes,0,Very good,10,No,No,No,No,No,No
+Male,24,29,Yes,Yes,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,76,31,Yes,Yes,0,1,Yes,White,No,1,Poor,8,Yes,Yes,Yes,Yes,Yes,Yes
+Female,23,28,No,No,0,3,No,Black,Yes,1,Fair,8,Yes,No,Yes,Yes,No,Yes
+Male,45,25,Yes,No,1,1,No,Black,Yes,0,Excellent,6,No,No,No,No,No,No
+Male,79,30,No,Yes,1,1,No,Hispanic,Yes,0,Very good,5,No,Yes,No,No,No,Yes
+Male,72,49,Yes,No,1,1,No,White,Yes,1,Fair,8,Yes,Yes,Yes,No,No,No
+Male,81,18,No,No,1,3,No,White,Yes,0,Very good,5,No,No,No,No,No,No
+Male,28,31,Yes,No,0,1,Yes,Black,Yes,0,Excellent,5,No,Yes,No,Yes,Yes,No
+Female,42,19,Yes,No,0,3,No,White,Yes,0,Very good,8,No,No,No,No,No,Yes
+Male,51,37,Yes,No,1,1,No,White,Yes,0,Good,6,No,Yes,No,No,No,No
+Male,34,24,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,20,32,No,No,1,1,No,Black,No,0,Good,6,No,No,No,No,No,No
+Female,83,24,No,No,0,1,No,Black,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,76,27,No,No,1,1,No,Black,No,1,Fair,6,Yes,No,Yes,No,No,No
+Female,38,27,No,No,0,3,No,White,Yes,0,Very good,7,No,No,No,No,No,Yes
+Female,20,21,No,No,1,1,Yes,Black,Yes,0,Very good,8,No,No,No,No,Yes,No
+Male,75,32,No,No,0,1,No,White,Yes,0,Good,9,No,No,No,Yes,No,No
+Female,84,24,Yes,No,1,1,Yes,White,Yes,0,Good,7,No,No,No,No,Yes,No
+Female,53,39,No,No,1,1,No,Black,Yes,0,Excellent,6,No,No,No,No,No,No
+Female,83,22,Yes,No,1,1,Yes,White,No,0,Very good,5,No,Yes,No,No,Yes,No
+Male,82,27,No,No,1,1,No,White,Yes,0,Very good,5,No,No,No,No,No,No
+Female,48,21,Yes,No,1,1,No,White,No,0,Very good,6,No,No,No,No,No,No
+Female,31,33,No,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Male,36,35,No,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,84,25,Yes,No,1,1,No,White,Yes,1,Fair,6,Yes,No,Yes,No,No,No
+Female,28,40,Yes,No,1,1,No,White,No,0,Good,3,No,Yes,No,No,No,No
+Male,27,27,Yes,No,1,1,No,Black,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,65,21,Yes,No,1,1,No,White,Yes,0,Good,5,No,Yes,No,No,No,No
+Male,51,27,No,No,0,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,56,23,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,56,31,Yes,No,1,1,No,White,Yes,0,Excellent,7,No,Yes,No,No,No,No
+Female,78,29,No,No,1,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Male,58,28,Yes,No,0,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Male,67,26,Yes,No,1,1,No,American Indian/Alaskan Native,Yes,0,Good,8,No,No,No,No,No,No
+Male,44,23,No,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,79,26,No,No,1,1,No,Black,Yes,0,Very good,6,No,No,No,No,No,No
+Female,56,38,No,No,0,2,No,White,Yes,0,Very good,7,No,No,No,Yes,No,No
+Female,79,27,No,No,1,1,No,White,Yes,0,Good,5,No,No,No,No,No,No
+Female,27,33,No,No,0,1,No,White,No,0,Good,8,No,No,No,Yes,No,No
+Female,57,28,No,No,1,2,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,75,30,No,No,0,1,No,Black,Yes,0,Good,6,No,No,No,No,No,No
+Female,28,34,No,No,1,3,No,White,Yes,0,Very good,8,No,No,No,No,No,Yes
+Male,36,42,No,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,85,23,No,No,0,2,No,White,Yes,1,Fair,6,Yes,No,Yes,Yes,No,No
+Female,41,28,Yes,No,1,2,No,Black,Yes,1,Fair,6,Yes,No,Yes,No,No,No
+Male,46,30,Yes,Yes,0,1,Yes,White,Yes,0,Poor,10,No,Yes,Yes,Yes,Yes,Yes
+Female,43,23,No,Yes,1,1,Yes,White,No,0,Poor,8,No,No,Yes,No,Yes,Yes
+Female,54,29,Yes,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,30,40,No,No,1,1,Yes,White,Yes,0,Very good,8,No,No,No,No,Yes,No
+Male,72,20,Yes,No,1,1,Yes,White,Yes,0,Good,6,No,No,No,No,Yes,No
+Male,24,53,No,No,0,1,No,White,Yes,0,Good,6,No,No,No,Yes,No,No
+Male,84,25,No,No,0,1,No,White,Yes,0,Very good,3,No,No,No,No,No,No
+Female,66,28,No,No,1,2,No,White,No,0,Good,8,No,No,No,No,No,No
+Male,33,27,No,No,1,1,Yes,White,No,1,Fair,8,Yes,No,Yes,No,Yes,No
+Male,25,36,Yes,No,1,1,No,White,Yes,0,Very good,10,No,Yes,No,No,No,No
+Male,81,30,No,No,0,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Male,62,24,Yes,No,1,2,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,72,27,Yes,No,0,1,No,Other,Yes,0,Very good,6,No,No,No,No,No,No
+Female,43,24,No,No,1,1,No,Black,Yes,0,Good,9,No,No,No,No,No,No
+Male,82,30,Yes,No,1,1,No,Black,Yes,0,Good,6,No,Yes,No,No,No,No
+Female,75,41,No,No,1,1,No,Black,Yes,0,Very good,7,No,No,No,No,No,No
+Male,25,23,No,No,0,1,No,White,Yes,0,Very good,9,No,No,No,No,No,No
+Female,64,21,No,Yes,0,1,Yes,White,No,0,Poor,5,No,No,Yes,Yes,Yes,Yes
+Male,66,25,Yes,Yes,0,1,No,White,No,0,Good,5,No,Yes,Yes,No,No,No
+Female,82,26,No,No,0,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,76,22,Yes,No,0,1,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Male,44,31,No,No,1,1,No,Black,Yes,1,Fair,7,Yes,No,Yes,No,No,No
+Male,57,21,Yes,No,1,1,No,Black,No,0,Good,7,No,No,No,No,No,No
+Female,54,19,No,No,1,2,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,25,34,No,No,0,1,No,Black,Yes,0,Very good,4,No,No,No,Yes,No,No
+Female,66,46,No,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Male,48,31,No,No,0,3,Yes,White,No,0,Very good,8,No,No,No,Yes,Yes,Yes
+Female,62,48,No,No,0,1,No,Black,Yes,0,Good,7,No,No,No,Yes,No,No
+Male,78,26,No,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,78,41,No,No,1,3,Yes,Black,No,0,Very good,6,No,No,No,No,Yes,Yes
+Male,41,27,Yes,No,0,1,Yes,White,No,0,Good,8,No,No,No,No,Yes,No
+Female,43,30,No,No,0,3,No,White,Yes,0,Very good,9,No,No,No,No,No,Yes
+Female,30,27,No,No,0,1,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Female,60,27,Yes,No,1,1,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Male,78,23,No,No,1,1,No,Black,No,0,Good,6,No,No,No,No,No,No
+Male,73,33,Yes,No,1,1,No,Black,Yes,0,Good,7,No,Yes,No,No,No,No
+Male,20,24,No,No,1,3,No,White,No,1,Fair,6,Yes,No,Yes,No,No,Yes
+Male,74,30,Yes,No,0,1,No,Black,Yes,1,Fair,6,Yes,Yes,Yes,Yes,No,No
+Female,35,26,Yes,No,0,3,No,White,Yes,0,Good,4,No,Yes,No,No,No,Yes
+Female,66,55,No,No,0,1,Yes,White,No,1,Fair,6,Yes,No,Yes,Yes,Yes,No
+Male,76,28,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,81,32,Yes,No,0,1,No,White,No,0,Excellent,9,No,Yes,No,Yes,No,No
+Female,58,31,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,36,30,No,No,1,1,No,White,Yes,0,Good,4,No,No,No,No,No,No
+Male,29,24,No,No,0,3,No,White,No,0,Very good,7,No,No,No,No,No,Yes
+Male,83,34,Yes,No,0,1,No,White,Yes,0,Very good,7,No,Yes,No,Yes,No,No
+Female,21,34,Yes,No,0,1,No,Black,No,0,Good,6,No,Yes,No,Yes,No,No
+Female,81,17,No,No,0,1,No,White,Yes,0,Good,4,No,No,No,No,No,No
+Female,74,30,No,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,81,44,No,Yes,0,2,Yes,White,No,1,Poor,8,Yes,No,Yes,Yes,Yes,Yes
+Male,78,22,No,No,1,1,No,Hispanic,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,35,17,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,39,23,Yes,No,1,1,Yes,White,No,1,Fair,8,Yes,No,Yes,No,Yes,No
+Female,25,23,Yes,Yes,1,1,Yes,White,No,1,Poor,3,Yes,Yes,Yes,No,Yes,Yes
+Female,72,24,No,Yes,0,1,Yes,Black,No,1,Poor,5,Yes,No,Yes,Yes,Yes,Yes
+Male,66,33,Yes,No,1,2,No,White,Yes,0,Good,8,No,Yes,No,No,No,No
+Female,24,31,No,Yes,1,1,Yes,Black,Yes,1,Poor,12,Yes,No,Yes,No,Yes,Yes
+Male,64,26,No,No,1,1,Yes,White,Yes,0,Excellent,7,No,No,No,No,Yes,No
+Female,41,40,No,No,1,2,Yes,White,Yes,1,Fair,8,Yes,No,Yes,No,Yes,No
+Male,38,31,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,Yes,No,No
+Female,83,25,No,No,0,3,No,White,Yes,0,Very good,8,No,No,No,No,No,Yes
+Female,39,22,No,Yes,1,1,Yes,White,No,1,Poor,8,Yes,No,Yes,No,Yes,Yes
+Female,69,27,No,No,0,2,No,White,No,1,Fair,7,Yes,No,Yes,Yes,No,No
+Male,32,24,Yes,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,55,28,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,36,34,Yes,No,1,1,No,White,Yes,0,Very good,7,No,Yes,No,No,No,No
+Male,31,26,Yes,No,1,1,No,White,No,1,Fair,8,Yes,No,Yes,No,No,No
+Female,23,39,No,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,42,27,Yes,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Male,78,27,No,Yes,0,1,No,Black,Yes,0,Good,8,No,Yes,Yes,No,No,Yes
+Female,63,25,Yes,No,1,1,No,White,No,0,Good,5,No,Yes,No,No,No,No
+Male,36,14,Yes,Yes,0,1,No,White,No,0,Very good,8,No,Yes,Yes,No,No,No
+Female,61,30,No,No,0,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,39,29,No,No,0,1,Yes,Black,No,1,Fair,8,Yes,No,Yes,Yes,Yes,No
+Male,71,26,Yes,No,1,2,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,24,28,No,No,1,2,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Female,60,33,No,No,0,1,No,Black,Yes,0,Good,12,No,No,No,Yes,No,No
+Male,63,37,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,20,23,Yes,Yes,0,1,Yes,Black,No,1,Poor,8,Yes,Yes,Yes,Yes,Yes,Yes
+Female,22,30,Yes,No,0,1,No,White,Yes,0,Good,6,No,Yes,No,No,No,No
+Female,20,40,Yes,No,1,1,No,White,Yes,0,Good,6,No,Yes,No,No,No,No
+Female,67,37,Yes,No,1,2,No,White,Yes,0,Good,6,No,Yes,No,No,No,No
+Male,54,27,Yes,No,1,1,No,White,Yes,0,Good,5,No,Yes,No,No,No,No
+Female,44,27,No,No,1,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,27,25,No,No,0,1,Yes,Black,Yes,1,Fair,8,Yes,No,Yes,Yes,Yes,No
+Female,79,21,No,No,0,1,Yes,White,No,0,Good,6,No,No,No,No,Yes,No
+Female,45,28,No,No,0,1,No,Black,No,1,Fair,6,Yes,No,Yes,Yes,No,No
+Male,65,22,No,No,0,1,No,Black,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,22,20,No,Yes,1,1,Yes,Black,Yes,0,Poor,3,No,No,Yes,No,Yes,Yes
+Female,33,30,No,No,1,2,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Male,34,42,Yes,No,1,1,No,White,No,0,Excellent,6,No,Yes,No,No,No,No
+Male,48,28,No,No,0,2,No,White,No,0,Very good,8,No,No,No,No,No,No
+Female,38,30,No,No,0,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Male,81,23,No,No,1,3,No,Black,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,53,35,No,No,1,1,No,White,Yes,0,Good,9,No,No,No,No,No,No
+Female,27,30,No,No,0,1,No,Black,Yes,0,Very good,6,No,No,No,No,No,No
+Female,46,44,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,Yes,No,No
+Female,27,23,No,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Male,68,27,No,Yes,1,2,Yes,White,No,0,Poor,4,No,No,Yes,No,Yes,Yes
+Male,69,19,No,No,1,1,No,White,Yes,0,Very good,5,No,No,No,No,No,No
+Male,46,29,No,No,1,1,No,Other,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,62,29,Yes,No,0,1,No,Black,No,1,Fair,12,Yes,No,Yes,Yes,No,No
+Male,26,39,Yes,Yes,0,2,Yes,White,No,1,Poor,9,Yes,Yes,Yes,Yes,Yes,Yes
+Female,30,23,Yes,No,1,1,Yes,White,Yes,1,Fair,8,Yes,No,Yes,No,Yes,No
+Female,56,24,No,No,1,1,Yes,White,Yes,0,Good,4,No,No,No,No,Yes,No
+Female,27,23,No,No,0,1,No,Black,Yes,0,Very good,6,No,No,No,No,No,No
+Female,52,24,No,No,1,1,No,White,No,0,Excellent,6,No,No,No,No,No,No
+Female,70,27,No,No,1,1,No,White,No,0,Very good,7,No,No,No,No,No,No
+Male,25,38,No,No,1,1,Yes,Black,No,0,Good,8,No,No,No,No,Yes,No
+Female,25,31,No,No,0,1,No,White,Yes,1,Fair,6,Yes,No,Yes,Yes,No,No
+Male,32,25,Yes,No,0,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Male,80,43,Yes,Yes,1,1,Yes,White,No,1,Poor,4,Yes,Yes,Yes,No,Yes,Yes
+Male,63,21,Yes,Yes,0,3,No,White,Yes,0,Poor,3,No,Yes,Yes,Yes,No,Yes
+Male,32,22,Yes,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Male,55,28,No,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,73,19,No,No,0,2,No,Black,Yes,1,Fair,1,Yes,No,Yes,Yes,No,No
+Female,79,28,Yes,No,1,1,No,White,No,0,Very good,7,No,No,No,No,No,No
+Female,45,27,No,No,0,1,No,White,No,0,Good,6,No,No,No,No,No,No
+Female,31,20,Yes,No,0,3,No,White,Yes,0,Good,6,No,No,No,No,No,Yes
+Female,56,26,No,No,1,2,No,Black,Yes,0,Good,5,No,No,No,No,No,No
+Female,48,28,Yes,No,0,1,No,White,No,0,Good,8,No,No,No,No,No,No
+Male,63,22,No,No,0,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Male,53,30,No,No,1,1,No,White,Yes,1,Fair,8,Yes,No,Yes,No,No,No
+Male,68,16,Yes,No,1,3,Yes,Black,Yes,0,Very good,6,No,No,No,No,Yes,No
+Male,62,40,Yes,No,0,1,No,White,Yes,0,Good,7,No,Yes,No,Yes,No,No
+Male,54,28,Yes,No,0,2,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,50,22,No,No,1,2,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,24,25,No,No,1,1,No,White,Yes,0,Excellent,5,No,No,No,No,No,No
+Male,67,26,No,No,0,1,No,Hispanic,No,0,Very good,7,No,No,No,No,No,No
+Female,53,25,Yes,No,0,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Male,30,21,No,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,46,24,No,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,84,27,No,No,1,3,No,White,Yes,0,Very good,9,No,No,No,No,No,Yes
+Female,25,31,No,No,1,1,No,Black,No,0,Good,5,No,No,No,No,No,No
+Female,73,28,Yes,Yes,1,3,Yes,White,Yes,1,Fair,5,Yes,Yes,Yes,No,Yes,Yes
+Female,74,27,No,No,0,1,Yes,White,No,0,Good,5,No,No,No,No,Yes,No
+Female,70,37,No,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Male,58,24,Yes,No,1,1,Yes,Other,Yes,1,Fair,4,Yes,Yes,Yes,No,Yes,No
+Female,24,28,Yes,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,39,31,Yes,No,1,1,Yes,White,No,0,Good,6,No,Yes,No,No,Yes,No
+Female,58,40,No,No,1,1,No,White,No,0,Excellent,7,No,No,No,No,No,No
+Male,61,24,No,No,0,2,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,27,34,Yes,No,1,1,No,White,Yes,0,Excellent,6,No,Yes,No,No,No,No
+Female,23,16,No,No,1,1,Yes,White,No,1,Fair,5,Yes,No,Yes,No,Yes,No
+Male,53,25,Yes,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,21,35,No,No,0,1,No,White,No,1,Fair,4,Yes,No,Yes,Yes,No,No
+Female,85,22,Yes,No,1,1,No,White,No,0,Very good,6,No,No,No,No,No,No
+Female,72,27,Yes,No,1,3,No,White,Yes,0,Good,7,No,No,No,No,No,Yes
+Female,41,27,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,50,33,No,No,0,1,No,White,Yes,0,Very good,6,No,No,No,Yes,No,No
+Female,35,29,No,No,1,3,Yes,White,No,1,Fair,5,Yes,No,Yes,No,Yes,Yes
+Male,49,15,Yes,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,60,25,Yes,No,1,1,Yes,White,No,0,Good,6,No,No,No,No,Yes,No
+Male,75,30,No,No,0,1,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Male,70,51,No,No,0,3,No,White,Yes,0,Good,8,No,No,No,Yes,No,Yes
+Female,36,27,No,No,1,1,No,White,Yes,0,Good,16,No,No,No,No,No,No
+Female,37,26,Yes,Yes,0,1,No,White,No,0,Very good,3,No,Yes,Yes,No,No,No
+Male,36,27,Yes,No,1,2,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,49,27,No,No,0,3,No,White,Yes,0,Very good,8,No,No,No,No,No,Yes
+Female,27,22,No,No,0,1,No,Black,Yes,0,Excellent,6,No,No,No,No,No,No
+Male,49,39,No,No,1,3,No,White,Yes,0,Very good,6,No,No,No,No,No,Yes
+Female,77,24,Yes,No,1,3,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,82,26,Yes,Yes,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,Yes
+Male,70,30,Yes,No,1,1,No,White,Yes,0,Very good,5,No,Yes,No,No,No,No
+Female,73,23,No,No,0,1,No,Hispanic,No,0,Very good,9,No,No,No,No,No,No
+Male,51,41,No,No,0,1,No,White,Yes,0,Excellent,7,No,No,No,Yes,No,No
+Female,27,29,No,No,0,2,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,45,57,Yes,Yes,1,2,Yes,White,Yes,1,Poor,5,Yes,Yes,Yes,No,Yes,Yes
+Female,84,26,Yes,No,1,1,Yes,White,No,1,Fair,8,Yes,No,Yes,No,Yes,No
+Male,52,28,Yes,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,82,34,No,No,1,2,No,Hispanic,Yes,0,Good,7,No,No,No,No,No,No
+Male,59,33,Yes,No,1,2,No,White,Yes,0,Good,8,No,Yes,No,No,No,No
+Female,26,31,No,No,1,1,No,White,No,0,Good,9,No,No,No,No,No,No
+Female,82,27,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,53,33,No,No,1,1,No,White,No,0,Good,8,No,No,No,No,No,No
+Female,66,36,No,No,0,3,No,Black,Yes,0,Good,7,No,No,No,Yes,No,Yes
+Male,34,28,Yes,No,1,1,No,Black,Yes,0,Very good,8,No,No,No,No,No,No
+Female,53,27,No,No,1,1,Yes,White,No,1,Fair,3,Yes,No,Yes,No,Yes,No
+Female,29,35,Yes,No,1,1,No,White,Yes,0,Very good,6,No,Yes,No,No,No,No
+Male,40,33,No,No,0,1,No,Black,No,0,Very good,6,No,No,No,Yes,No,No
+Male,49,38,No,No,1,1,No,Black,Yes,0,Very good,8,No,No,No,No,No,No
+Female,57,26,No,Yes,1,1,No,White,Yes,0,Very good,9,No,No,No,No,No,No
+Male,38,35,Yes,No,0,1,Yes,White,Yes,0,Good,6,No,Yes,No,Yes,Yes,No
+Male,24,23,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,77,40,No,No,1,1,No,White,No,0,Very good,4,No,No,No,No,No,No
+Female,31,33,Yes,No,1,1,Yes,White,No,1,Fair,7,Yes,Yes,Yes,No,Yes,No
+Male,53,29,Yes,No,1,2,No,Black,No,0,Very good,15,No,No,No,No,No,No
+Female,45,30,No,No,0,3,No,White,Yes,0,Very good,7,No,No,No,No,No,Yes
+Male,67,30,No,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,24,19,Yes,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,63,36,Yes,No,1,1,No,White,No,0,Very good,7,No,Yes,No,No,No,No
+Male,53,22,No,No,0,1,No,White,No,0,Very good,7,No,No,No,No,No,No
+Female,71,25,No,No,1,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Female,51,54,No,No,1,2,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,39,26,Yes,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,20,32,Yes,No,1,1,No,White,No,0,Very good,7,No,Yes,No,No,No,No
+Female,79,36,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,27,45,Yes,No,0,1,No,Black,Yes,0,Very good,6,No,Yes,No,Yes,No,No
+Male,42,27,Yes,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,83,31,No,No,1,1,No,Black,Yes,0,Very good,8,No,No,No,No,No,No
+Female,31,26,Yes,Yes,0,2,Yes,White,Yes,0,Poor,8,No,No,Yes,Yes,Yes,Yes
+Male,27,31,No,No,1,2,Yes,White,No,0,Good,9,No,No,No,No,Yes,No
+Female,34,23,No,No,1,1,No,White,Yes,0,Good,9,No,No,No,No,No,No
+Female,62,22,No,No,1,1,No,Black,No,0,Very good,8,No,No,No,No,No,No
+Female,70,26,No,No,1,1,No,White,No,0,Good,6,No,No,No,No,No,No
+Male,46,24,No,No,1,3,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,83,25,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,45,28,No,No,0,1,No,Other,No,0,Good,9,No,No,No,No,No,No
+Female,37,34,Yes,No,0,1,No,White,Yes,0,Excellent,8,No,Yes,No,Yes,No,No
+Female,44,37,Yes,No,1,3,Yes,White,No,1,Fair,9,Yes,Yes,Yes,No,Yes,Yes
+Female,58,27,Yes,No,1,3,Yes,White,Yes,0,Good,8,No,No,No,No,Yes,Yes
+Male,49,28,No,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Male,49,27,Yes,No,1,1,No,White,Yes,0,Good,4,No,Yes,No,No,No,No
+Female,61,26,No,No,1,1,No,Hispanic,Yes,0,Good,7,No,No,No,No,No,No
+Male,70,25,No,No,1,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,62,24,No,Yes,0,1,Yes,White,No,0,Poor,10,No,No,Yes,Yes,Yes,Yes
+Male,43,29,No,No,0,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,69,30,Yes,No,1,1,Yes,White,No,0,Good,8,No,Yes,No,No,Yes,No
+Female,61,42,Yes,Yes,0,1,Yes,White,No,1,Poor,8,Yes,Yes,Yes,Yes,Yes,Yes
+Female,54,19,No,No,1,1,Yes,White,Yes,0,Good,6,No,No,No,No,Yes,No
+Female,61,24,No,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Male,46,24,No,No,1,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Male,32,40,Yes,No,0,2,No,White,Yes,0,Excellent,8,No,Yes,No,Yes,No,No
+Female,47,42,Yes,No,0,2,No,White,Yes,0,Excellent,6,No,Yes,No,Yes,No,No
+Male,47,27,Yes,No,0,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,23,22,No,No,0,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,53,31,Yes,No,0,1,No,White,Yes,0,Very good,8,No,Yes,No,Yes,No,No
+Male,38,21,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,33,26,No,No,1,1,Yes,White,Yes,0,Good,6,No,No,No,No,Yes,No
+Female,49,25,No,No,1,1,No,White,No,0,Very good,8,No,No,No,No,No,No
+Male,44,23,Yes,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,69,24,Yes,No,1,2,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,58,21,Yes,No,1,1,No,White,No,0,Very good,4,No,Yes,No,No,No,No
+Male,33,31,Yes,No,0,1,No,White,Yes,0,Very good,6,No,Yes,No,Yes,No,No
+Female,65,42,Yes,No,1,1,Yes,White,No,1,Fair,5,Yes,Yes,Yes,No,Yes,No
+Female,69,31,No,No,1,3,Yes,White,No,1,Fair,4,Yes,No,Yes,No,Yes,Yes
+Male,39,34,Yes,No,0,1,No,White,Yes,0,Good,6,No,Yes,No,Yes,No,No
+Female,42,27,Yes,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,51,28,Yes,No,0,1,No,White,No,1,Fair,6,Yes,No,Yes,Yes,No,No
+Male,76,27,No,Yes,1,2,No,White,Yes,0,Excellent,8,No,Yes,No,No,No,Yes
+Female,52,27,No,No,1,3,No,Black,Yes,0,Very good,8,No,No,No,No,No,Yes
+Male,37,37,Yes,No,0,1,No,White,Yes,0,Good,8,No,Yes,No,Yes,No,No
+Female,76,18,No,No,0,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Female,84,28,Yes,No,1,1,Yes,American Indian/Alaskan Native,No,1,Fair,8,Yes,No,Yes,No,Yes,No
+Female,52,28,Yes,No,0,3,No,White,Yes,0,Good,8,No,No,No,No,No,Yes
+Male,75,26,No,No,1,3,No,White,Yes,0,Very good,6,No,No,No,No,No,Yes
+Female,29,35,No,No,1,1,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Female,67,32,No,No,0,2,Yes,White,Yes,0,Good,6,No,No,No,Yes,Yes,No
+Female,41,39,No,No,0,3,No,White,Yes,0,Excellent,8,No,No,No,Yes,No,Yes
+Female,64,25,Yes,No,1,3,No,White,No,1,Fair,7,Yes,No,Yes,No,No,Yes
+Female,20,24,No,No,1,1,Yes,White,Yes,1,Fair,8,Yes,No,Yes,No,Yes,No
+Female,84,24,Yes,No,0,1,No,White,Yes,1,Fair,12,Yes,No,Yes,Yes,No,No
+Male,28,33,Yes,No,1,1,No,White,Yes,0,Good,6,No,Yes,No,No,No,No
+Female,73,26,No,No,1,1,Yes,Black,Yes,0,Very good,6,No,No,No,No,Yes,No
+Female,46,19,Yes,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Male,51,33,Yes,No,1,1,No,Black,No,0,Good,8,No,Yes,No,No,No,No
+Female,67,37,Yes,No,0,1,Yes,Black,No,0,Good,6,No,Yes,No,Yes,Yes,No
+Female,36,33,No,No,1,1,Yes,Other,No,0,Good,8,No,No,No,No,Yes,No
+Female,44,26,Yes,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,24,22,No,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Male,23,30,No,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,44,25,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,41,33,No,No,1,1,Yes,White,Yes,0,Good,6,No,No,No,No,Yes,No
+Female,31,22,Yes,No,1,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Male,34,27,Yes,No,0,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,82,28,Yes,No,1,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Male,50,21,No,No,1,1,No,Black,Yes,0,Good,8,No,No,No,No,No,No
+Female,24,34,No,No,1,1,Yes,White,Yes,0,Very good,8,No,No,No,No,Yes,No
+Male,66,34,Yes,No,0,1,No,White,Yes,0,Very good,6,No,Yes,No,Yes,No,No
+Male,51,30,Yes,No,0,1,No,White,Yes,0,Good,6,No,Yes,No,No,No,No
+Female,37,30,Yes,No,0,1,No,White,Yes,0,Very good,5,No,Yes,No,No,No,No
+Male,27,27,No,No,1,1,No,White,Yes,0,Very good,9,No,No,No,No,No,No
+Female,49,33,No,No,0,1,No,White,Yes,0,Good,7,No,No,No,Yes,No,No
+Male,76,42,Yes,Yes,1,1,No,Other,No,0,Very good,8,No,Yes,No,No,No,Yes
+Male,44,29,No,No,0,1,Yes,White,No,0,Good,8,No,No,No,No,Yes,No
+Female,79,24,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,29,23,Yes,No,0,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Male,73,26,Yes,No,1,1,Yes,White,No,1,Fair,5,Yes,Yes,Yes,No,Yes,No
+Female,79,26,Yes,Yes,0,3,No,White,Yes,0,Very good,9,No,No,Yes,No,No,Yes
+Male,53,36,No,No,1,2,No,White,Yes,0,Very good,5,No,No,No,No,No,No
+Female,39,27,No,No,1,1,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Female,85,25,No,No,1,3,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,58,29,Yes,No,1,1,Yes,White,No,1,Fair,7,Yes,No,Yes,No,Yes,No
+Female,39,26,No,No,1,3,No,Black,Yes,0,Very good,6,No,No,No,No,No,Yes
+Male,25,32,No,No,0,1,No,White,No,0,Very good,7,No,No,No,Yes,No,No
+Female,72,25,Yes,No,0,1,No,White,No,0,Good,6,No,No,No,No,No,No
+Male,70,29,Yes,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,73,23,Yes,Yes,1,1,No,White,No,0,Very good,7,No,Yes,No,No,No,Yes
+Female,40,27,Yes,No,0,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Female,38,22,No,No,0,1,No,White,Yes,0,Very good,5,No,No,No,No,No,No
+Female,82,29,No,No,1,1,No,American Indian/Alaskan Native,Yes,0,Good,8,No,No,No,No,No,No
+Female,60,34,Yes,Yes,0,1,Yes,White,No,1,Poor,5,Yes,Yes,Yes,Yes,Yes,Yes
+Female,55,23,No,No,0,1,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Male,81,31,Yes,No,1,3,Yes,White,Yes,0,Very good,8,No,Yes,No,No,Yes,Yes
+Male,48,26,Yes,Yes,1,1,No,White,No,1,Poor,7,Yes,No,Yes,No,No,Yes
+Female,49,26,Yes,No,0,2,No,Black,Yes,0,Very good,6,No,No,No,No,No,No
+Male,52,34,Yes,No,1,1,No,White,Yes,0,Good,6,No,Yes,No,No,No,No
+Male,53,29,Yes,No,0,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Male,29,28,Yes,No,1,1,Yes,White,Yes,1,Fair,6,Yes,No,Yes,No,Yes,No
+Female,28,32,No,No,0,2,No,Black,No,0,Very good,12,No,No,No,Yes,No,No
+Male,51,35,Yes,Yes,0,1,Yes,White,No,1,Poor,6,Yes,Yes,Yes,Yes,Yes,Yes
+Male,33,24,Yes,No,0,1,No,White,No,0,Very good,8,No,No,No,No,No,No
+Male,72,20,Yes,No,1,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,48,36,No,No,1,1,No,White,Yes,0,Excellent,10,No,No,No,No,No,No
+Female,77,37,No,No,1,1,No,Black,Yes,0,Very good,6,No,No,No,No,No,No
+Female,67,23,Yes,No,1,1,Yes,Hispanic,Yes,0,Good,4,No,Yes,No,No,Yes,No
+Female,68,22,No,No,0,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,54,32,Yes,No,1,1,No,Black,Yes,0,Very good,5,No,Yes,No,No,No,No
+Male,44,30,No,No,0,2,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,76,31,Yes,No,1,1,No,White,Yes,0,Very good,6,No,Yes,No,No,No,No
+Male,40,28,Yes,No,0,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Male,22,23,No,No,1,1,No,White,No,0,Very good,6,No,No,No,No,No,No
+Female,66,24,No,No,0,2,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,72,28,No,No,1,1,No,White,No,0,Good,7,No,No,No,No,No,No
+Female,37,27,Yes,No,1,1,No,White,No,0,Very good,6,No,No,No,No,No,No
+Female,62,34,No,No,0,2,No,Black,Yes,0,Good,8,No,No,No,Yes,No,No
+Male,65,22,No,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Male,77,27,No,No,1,3,No,White,Yes,0,Excellent,6,No,No,No,No,No,Yes
+Female,48,20,No,No,0,2,No,White,No,0,Good,7,No,No,No,No,No,No
+Female,36,28,No,No,0,1,Yes,Black,Yes,1,Fair,6,Yes,No,Yes,Yes,Yes,No
+Male,77,30,Yes,No,0,1,No,White,No,1,Fair,4,Yes,Yes,Yes,Yes,No,No
+Male,29,45,No,No,1,1,No,Black,No,0,Excellent,8,No,No,No,No,No,No
+Female,75,29,Yes,No,0,1,No,White,No,0,Good,6,No,No,No,No,No,No
+Female,64,35,No,No,1,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,76,15,Yes,Yes,0,1,No,White,Yes,0,Very good,7,No,Yes,Yes,No,No,Yes
+Male,57,29,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,65,26,No,No,1,2,No,White,Yes,0,Good,6,No,No,No,No,No,No
+Male,37,28,Yes,No,0,3,No,White,Yes,0,Very good,8,No,No,No,No,No,Yes
+Female,43,30,Yes,No,0,1,No,White,Yes,0,Good,8,No,Yes,No,No,No,No
+Female,51,29,No,No,0,2,Yes,Black,No,0,Good,6,No,No,No,No,Yes,No
+Female,31,30,No,No,0,1,No,American Indian/Alaskan Native,Yes,0,Excellent,6,No,No,No,No,No,No
+Female,55,23,Yes,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,77,31,No,No,0,3,No,White,Yes,0,Very good,8,No,No,No,Yes,No,Yes
+Female,78,23,Yes,No,1,1,No,Black,Yes,0,Good,6,No,No,No,No,No,No
+Male,64,21,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,20,20,No,No,0,1,No,Black,Yes,0,Very good,7,No,No,No,No,No,No
+Female,31,30,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Male,48,33,No,No,0,1,Yes,White,Yes,0,Good,10,No,No,No,Yes,Yes,No
+Female,42,25,No,No,1,3,Yes,Black,No,0,Very good,6,No,No,No,No,Yes,No
+Male,37,24,Yes,No,1,1,Yes,White,Yes,1,Fair,9,Yes,No,Yes,No,Yes,No
+Female,46,23,Yes,No,0,2,No,White,Yes,1,Fair,7,Yes,No,Yes,Yes,No,No
+Female,67,25,No,No,0,1,No,Black,No,0,Good,7,No,No,No,No,No,No
+Female,80,24,No,No,0,1,No,Black,No,0,Very good,8,No,No,No,No,No,No
+Male,60,29,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,59,34,No,No,0,1,Yes,White,No,0,Good,14,No,No,No,Yes,Yes,No
+Female,30,24,No,No,0,3,No,Black,Yes,0,Very good,6,No,No,No,No,No,Yes
+Female,20,42,Yes,No,0,1,No,Black,Yes,0,Very good,7,No,Yes,No,Yes,No,No
+Female,63,31,No,Yes,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,Yes
+Female,44,22,No,No,0,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Male,84,22,No,No,0,1,Yes,White,No,0,Good,8,No,No,No,No,Yes,No
+Male,64,25,No,No,0,1,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Female,47,37,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,Yes,No,No
+Male,77,30,No,No,1,1,No,Black,Yes,0,Very good,10,No,No,No,No,No,No
+Male,75,22,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,22,26,No,No,1,1,No,Black,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,66,21,Yes,No,0,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Female,35,37,Yes,No,0,3,Yes,White,Yes,0,Good,7,No,Yes,No,Yes,Yes,Yes
+Male,36,38,No,No,1,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,75,27,No,No,0,1,No,Black,Yes,0,Very good,7,No,No,No,No,No,No
+Male,36,44,No,No,0,1,No,White,Yes,0,Good,7,No,No,No,Yes,No,No
+Male,51,35,Yes,No,0,1,No,White,Yes,0,Very good,8,No,Yes,No,Yes,No,No
+Female,35,32,No,No,0,1,No,Black,No,0,Good,6,No,No,No,Yes,No,No
+Male,76,22,Yes,Yes,1,1,No,White,No,1,Poor,5,Yes,Yes,Yes,No,No,Yes
+Male,80,29,No,No,0,1,No,White,Yes,0,Excellent,6,No,No,No,No,No,No
+Male,77,30,No,No,1,3,No,Black,No,1,Fair,4,Yes,No,Yes,No,No,Yes
+Female,28,19,No,No,1,1,No,Black,Yes,0,Very good,8,No,No,No,No,No,No
+Female,36,28,No,No,1,1,No,White,No,0,Good,6,No,No,No,No,No,No
+Male,58,26,No,No,0,3,No,White,Yes,0,Very good,8,No,No,No,No,No,Yes
+Male,31,46,No,No,1,1,No,White,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,50,25,No,No,0,1,No,Black,Yes,0,Excellent,9,No,No,No,No,No,No
+Female,45,28,Yes,No,0,2,No,Black,Yes,0,Excellent,7,No,No,No,No,No,No
+Female,62,23,Yes,Yes,0,1,Yes,White,No,1,Poor,3,Yes,Yes,Yes,Yes,Yes,Yes
+Female,67,23,No,No,0,3,No,White,Yes,0,Excellent,6,No,No,No,No,No,Yes
+Male,75,35,Yes,No,1,1,No,Black,Yes,1,Fair,7,Yes,Yes,Yes,No,No,No
+Female,54,32,No,No,0,1,No,Black,Yes,0,Very good,8,No,No,No,Yes,No,No
+Female,34,23,No,Yes,1,2,No,Other,Yes,0,Excellent,7,No,No,No,No,No,No
+Male,47,51,Yes,No,1,3,No,Black,No,0,Good,6,No,Yes,No,No,No,Yes
+Male,67,23,Yes,No,0,2,No,White,No,0,Excellent,8,No,No,No,No,No,No
+Female,46,20,Yes,No,0,2,No,Black,Yes,0,Good,7,No,No,No,No,No,No
+Female,36,41,Yes,Yes,1,1,No,Black,Yes,0,Very good,6,No,Yes,No,No,No,Yes
+Female,63,27,No,Yes,1,1,Yes,Black,No,0,Poor,5,No,No,Yes,No,Yes,Yes
+Male,41,27,No,No,1,3,No,White,Yes,0,Good,7,No,No,No,No,No,Yes
+Female,24,39,No,No,0,2,Yes,Black,Yes,0,Good,7,No,No,No,Yes,Yes,No
+Male,61,30,Yes,No,1,1,Yes,White,No,1,Fair,6,Yes,Yes,Yes,No,Yes,No
+Male,46,31,No,No,1,1,No,Other,No,0,Good,5,No,No,No,No,No,No
+Male,36,27,Yes,No,1,1,No,Black,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,85,27,No,No,0,2,No,White,Yes,0,Good,8,No,No,No,No,No,No
+Male,33,30,Yes,No,0,1,No,Black,Yes,1,Fair,8,Yes,Yes,Yes,Yes,No,No
+Female,25,17,No,No,0,1,No,White,Yes,0,Very good,6,No,No,No,No,No,No
+Male,72,30,Yes,No,0,1,No,Black,Yes,0,Good,8,No,Yes,No,No,No,No
+Female,57,52,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,81,20,No,No,1,1,No,Other,Yes,0,Excellent,9,No,No,No,No,No,No
+Male,32,26,Yes,No,1,1,No,Other,Yes,0,Excellent,10,No,No,No,No,No,No
+Female,35,31,No,No,0,2,No,White,No,0,Very good,8,No,No,No,Yes,No,No
+Male,68,30,Yes,No,0,1,No,Black,Yes,0,Good,6,No,Yes,No,No,No,No
+Male,38,23,Yes,No,1,1,No,Black,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,25,30,No,No,0,3,No,White,Yes,0,Very good,6,No,No,No,No,No,Yes
+Female,72,26,No,No,1,1,No,Black,No,1,Fair,5,Yes,No,Yes,No,No,No
+Female,58,26,No,No,1,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Female,80,32,Yes,No,1,1,No,White,Yes,0,Very good,8,No,Yes,No,No,No,No
+Female,56,30,Yes,No,0,1,No,White,Yes,0,Good,9,No,Yes,No,No,No,No
+Female,32,27,Yes,No,1,1,No,White,Yes,0,Excellent,8,No,No,No,No,No,No
+Female,58,34,No,No,0,1,No,Black,Yes,1,Fair,8,Yes,No,Yes,Yes,No,No
+Female,72,36,No,No,1,1,No,Black,No,0,Excellent,8,No,No,No,No,No,No
+Male,85,22,No,No,0,1,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,48,31,Yes,No,0,1,No,White,Yes,0,Excellent,8,No,Yes,No,Yes,No,No
+Male,44,27,No,No,0,1,No,White,Yes,0,Very good,8,No,No,No,No,No,No
+Male,76,24,No,No,1,3,No,White,Yes,0,Very good,7,No,No,No,No,No,No
+Male,25,39,No,No,0,1,Yes,Black,Yes,0,Good,6,No,No,No,Yes,Yes,No
+Female,69,28,Yes,No,0,1,No,White,Yes,0,Good,7,No,No,No,No,No,No
+Female,23,44,No,No,0,1,No,White,Yes,0,Excellent,8,No,No,No,Yes,No,No
+Female,33,32,Yes,No,0,2,Yes,White,Yes,0,Good,6,No,Yes,No,Yes,Yes,No
+Female,43,43,No,No,1,1,No,Black,Yes,0,Very good,12,No,No,No,No,No,No
+Male,34,24,No,No,1,1,No,Hispanic,No,0,Good,8,No,No,No,No,No,No
